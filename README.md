@@ -10,7 +10,7 @@ This app provides personalized nutritional analysis for scanned food items. Usin
 4. [Usage](#usage)
 5. [Configuration](#configuration)
 6. [Contributing](#contributing)
-7. [License](#license)
+
 
 ## Features
 
@@ -74,12 +74,6 @@ Contributions are welcome! Here’s how to get involved:
    git push origin feature-your-feature-name
 4. Submit a pull request explaining your feature.
 
-## License
 
-This project is licensed under the MIT License.
 
----
 
-### Notes
-
-Feel free to adapt this README further to include additional details specific to your project's functionality, API integrations, or data sources.
