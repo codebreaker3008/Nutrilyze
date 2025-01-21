@@ -1,0 +1,3042 @@
+[
+  {
+    "code": "8902080000227",
+    "_id": "8902080000227",
+    "allergens": "",
+    "allergens_from_ingredients": "",
+    "brands": "Sting",
+    "food_groups": "en:sweetened-beverages",
+    "id": "8902080000227",
+    "image_front_url": "https://images.openfoodfacts.org/images/products/890/208/000/0227/front_en.36.400.jpg",
+    "image_ingredients_url": "https://images.openfoodfacts.org/images/products/890/208/000/0227/ingredients_en.38.400.jpg",
+    "image_nutrition_url": "https://images.openfoodfacts.org/images/products/890/208/000/0227/nutrition_en.40.400.jpg",
+    "image_packaging_url": "https://images.openfoodfacts.org/images/products/890/208/000/0227/packaging_en.42.400.jpg",
+    "image_url": "https://images.openfoodfacts.org/images/products/890/208/000/0227/front_en.36.400.jpg",
+    "ingredients": [
+      {
+        "ciqual_food_code": "18066",
+        "id": "en:carbonated-water",
+        "is_in_taxonomy": 1,
+        "percent_estimate": 86.22,
+        "percent_max": 99.85,
+        "percent_min": 72.59,
+        "text": "CARBONATED WATER",
+        "vegan": "yes",
+        "vegetarian": "yes"
+      },
+      {
+        "ciqual_proxy_food_code": "31016",
+        "id": "en:sugar",
+        "is_in_taxonomy": 1,
+        "percent_estimate": 3.415,
+        "percent_max": 6.8,
+        "percent_min": 0.03,
+        "text": "SUGAR",
+        "vegan": "yes",
+        "vegetarian": "yes"
+      },
+      {
+        "id": "en:acidity-regulator",
+        "ingredients": [
+          {
+            "id": "en:330",
+            "is_in_taxonomy": 0,
+            "percent_estimate": 1.7075,
+            "percent_max": 6.8,
+            "percent_min": 0,
+            "text": "330"
+          },
+          {
+            "id": "en:331",
+            "is_in_taxonomy": 0,
+            "percent_estimate": 1.7075,
+            "percent_max": 3.4,
+            "percent_min": 0,
+            "text": "331"
+          }
+        ],
+        "is_in_taxonomy": 1,
+        "percent_estimate": 3.415,
+        "percent_max": 6.8,
+        "percent_min": 0.03,
+        "text": "ACIDITY REGULATORS"
+      },
+      {
+        "id": "en:sequesterants",
+        "ingredients": [
+          {
+            "id": "en:452",
+            "ingredients": [
+              {
+                "id": "en:1",
+                "is_in_taxonomy": 0,
+                "percent_estimate": 1.7075,
+                "percent_max": 6.8,
+                "percent_min": 0,
+                "text": "1"
+              }
+            ],
+            "is_in_taxonomy": 0,
+            "percent_estimate": 1.7075,
+            "percent_max": 6.8,
+            "percent_min": 0,
+            "text": "452"
+          },
+          {
+            "id": "en:385",
+            "is_in_taxonomy": 0,
+            "percent_estimate": 1.7075,
+            "percent_max": 3.4,
+            "percent_min": 0,
+            "text": "385"
+          }
+        ],
+        "is_in_taxonomy": 0,
+        "percent_estimate": 3.415,
+        "percent_max": 6.8,
+        "percent_min": 0.03,
+        "text": "SEQUESTERANTS"
+      },
+      {
+        "id": "en:taurine",
+        "is_in_taxonomy": 1,
+        "percent_estimate": 1.78249999999999,
+        "percent_max": 6.8,
+        "percent_min": 0.03,
+        "text": "TAURINE",
+        "vegan": "maybe",
+        "vegetarian": "maybe"
+      },
+      {
+        "id": "en:caffeine",
+        "is_in_taxonomy": 1,
+        "percent": 0.03,
+        "percent_estimate": 0.03,
+        "percent_max": 0.03,
+        "percent_min": 0.03,
+        "text": "CAFFEINE",
+        "vegan": "yes",
+        "vegetarian": "yes"
+      },
+      {
+        "id": "en:preservative",
+        "ingredients": [
+          {
+            "id": "en:211",
+            "is_in_taxonomy": 0,
+            "percent_estimate": 0.0075,
+            "percent_max": 0.03,
+            "percent_min": 0,
+            "text": "211"
+          },
+          {
+            "id": "en:202",
+            "is_in_taxonomy": 0,
+            "percent_estimate": 0.0075,
+            "percent_max": 0.03,
+            "percent_min": 0,
+            "text": "202"
+          }
+        ],
+        "is_in_taxonomy": 1,
+        "percent_estimate": 0.015,
+        "percent_max": 0.03,
+        "percent_min": 0,
+        "text": "PRESERVATIVES"
+      },
+      {
+        "id": "en:sweetener",
+        "ingredients": [
+          {
+            "id": "en:955",
+            "is_in_taxonomy": 0,
+            "percent_estimate": 0.0075,
+            "percent_max": 0.03,
+            "percent_min": 0,
+            "text": "955"
+          },
+          {
+            "id": "en:950",
+            "is_in_taxonomy": 0,
+            "percent_estimate": 0.0075,
+            "percent_max": 0.03,
+            "percent_min": 0,
+            "text": "950"
+          }
+        ],
+        "is_in_taxonomy": 1,
+        "percent_estimate": 0.015,
+        "percent_max": 0.03,
+        "percent_min": 0,
+        "text": "SWEETENERS"
+      },
+      {
+        "id": "en:inositol",
+        "is_in_taxonomy": 1,
+        "percent_estimate": 0.015,
+        "percent_max": 0.03,
+        "percent_min": 0,
+        "text": "INOSITOL",
+        "vegan": "yes",
+        "vegetarian": "yes"
+      },
+      {
+        "id": "en:vitamins-premix",
+        "is_in_taxonomy": 0,
+        "percent_estimate": 0.015,
+        "percent_max": 0.03,
+        "percent_min": 0,
+        "text": "VITAMINS PREMIX"
+      },
+      {
+        "id": "en:contains-permitted-synthetic-food-colour",
+        "ingredients": [
+          {
+            "id": "en:129",
+            "is_in_taxonomy": 0,
+            "percent_estimate": 0.015,
+            "percent_max": 0.03,
+            "percent_min": 0,
+            "text": "129"
+          }
+        ],
+        "is_in_taxonomy": 0,
+        "percent_estimate": 0.015,
+        "percent_max": 0.03,
+        "percent_min": 0,
+        "text": "CONTAINS PERMITTED SYNTHETIC FOOD COLOUR"
+      },
+      {
+        "id": "en:flavouring",
+        "ingredients": [
+          {
+            "id": "en:natural-flavouring",
+            "is_in_taxonomy": 1,
+            "percent_estimate": 0.015,
+            "percent_max": 0.03,
+            "percent_min": 0,
+            "text": "NATURAL FLAVOURING",
+            "vegan": "maybe",
+            "vegetarian": "maybe"
+          },
+          {
+            "id": "en:nature-identical-flavouring",
+            "is_in_taxonomy": 1,
+            "percent_estimate": 1.63249999999999,
+            "percent_max": 0.03,
+            "percent_min": 0,
+            "text": "NATURE IDENTICAL FLAVOURING SUBSTANCES",
+            "vegan": "maybe",
+            "vegetarian": "maybe"
+          }
+        ],
+        "is_in_taxonomy": 1,
+        "percent_estimate": 1.64749999999999,
+        "percent_max": 0.03,
+        "percent_min": 0,
+        "text": "ADDED FLAVOUR",
+        "vegan": "maybe",
+        "vegetarian": "maybe"
+      }
+    ],
+    "nutrient_levels": {
+      "fat": "low",
+      "salt": "low",
+      "saturated-fat": "low",
+      "sugars": "high"
+    },
+    "nutriments": {
+      "carbohydrates": 7,
+      "carbohydrates_100g": 7,
+      "carbohydrates_unit": "g",
+      "carbohydrates_value": 7,
+      "energy": 117,
+      "energy-kcal": 28,
+      "energy-kcal_100g": 28,
+      "energy-kcal_unit": "kcal",
+      "energy-kcal_value": 28,
+      "energy-kcal_value_computed": 28,
+      "energy_100g": 117,
+      "energy_unit": "kcal",
+      "energy_value": 28,
+      "fat": 0,
+      "fat_100g": 0,
+      "fat_unit": "g",
+      "fat_value": 0,
+      "fruits-vegetables-legumes-estimate-from-ingredients_100g": 0,
+      "fruits-vegetables-legumes-estimate-from-ingredients_serving": 0,
+      "fruits-vegetables-nuts-estimate-from-ingredients_100g": 0,
+      "fruits-vegetables-nuts-estimate-from-ingredients_serving": 0,
+      "nova-group": 4,
+      "nova-group_100g": 4,
+      "nova-group_serving": 4,
+      "nutrition-score-fr": 9,
+      "nutrition-score-fr_100g": 9,
+      "proteins": 0,
+      "proteins_100g": 0,
+      "proteins_unit": "g",
+      "proteins_value": 0,
+      "salt": 0.1025,
+      "salt_100g": 0.1025,
+      "salt_unit": "mg",
+      "salt_value": 102.5,
+      "saturated-fat": 0,
+      "saturated-fat_100g": 0,
+      "saturated-fat_unit": "g",
+      "saturated-fat_value": 0,
+      "sodium": 0.041,
+      "sodium_100g": 0.041,
+      "sodium_unit": "mg",
+      "sodium_value": 41,
+      "sugars": 6.8,
+      "sugars_100g": 6.8,
+      "sugars_unit": "g",
+      "sugars_value": 6.8
+    },
+    "product_name": "Sting",
+    "product_name_en": "Sting",
+    "selected_images": {
+      "front": {
+        "display": {
+          "en": "https://images.openfoodfacts.org/images/products/890/208/000/0227/front_en.36.400.jpg"
+        },
+        "small": {
+          "en": "https://images.openfoodfacts.org/images/products/890/208/000/0227/front_en.36.200.jpg"
+        },
+        "thumb": {
+          "en": "https://images.openfoodfacts.org/images/products/890/208/000/0227/front_en.36.100.jpg"
+        }
+      },
+      "ingredients": {
+        "display": {
+          "en": "https://images.openfoodfacts.org/images/products/890/208/000/0227/ingredients_en.38.400.jpg",
+          "hi": "https://images.openfoodfacts.org/images/products/890/208/000/0227/ingredients_hi.22.400.jpg"
+        },
+        "small": {
+          "en": "https://images.openfoodfacts.org/images/products/890/208/000/0227/ingredients_en.38.200.jpg",
+          "hi": "https://images.openfoodfacts.org/images/products/890/208/000/0227/ingredients_hi.22.200.jpg"
+        },
+        "thumb": {
+          "en": "https://images.openfoodfacts.org/images/products/890/208/000/0227/ingredients_en.38.100.jpg",
+          "hi": "https://images.openfoodfacts.org/images/products/890/208/000/0227/ingredients_hi.22.100.jpg"
+        }
+      },
+      "nutrition": {
+        "display": {
+          "en": "https://images.openfoodfacts.org/images/products/890/208/000/0227/nutrition_en.40.400.jpg"
+        },
+        "small": {
+          "en": "https://images.openfoodfacts.org/images/products/890/208/000/0227/nutrition_en.40.200.jpg"
+        },
+        "thumb": {
+          "en": "https://images.openfoodfacts.org/images/products/890/208/000/0227/nutrition_en.40.100.jpg"
+        }
+      },
+      "packaging": {
+        "display": {
+          "en": "https://images.openfoodfacts.org/images/products/890/208/000/0227/packaging_en.42.400.jpg"
+        },
+        "small": {
+          "en": "https://images.openfoodfacts.org/images/products/890/208/000/0227/packaging_en.42.200.jpg"
+        },
+        "thumb": {
+          "en": "https://images.openfoodfacts.org/images/products/890/208/000/0227/packaging_en.42.100.jpg"
+        }
+      }
+    },
+    "nutriscore_score": 9
+  },
+  {
+    "code": "8901030922787",
+    "_id": "8901030922787",
+    "allergens": "",
+    "allergens_from_ingredients": "",
+    "brands": "Kissan",
+    "food_groups": "en:sweets",
+    "id": "8901030922787",
+    "image_front_url": "https://images.openfoodfacts.org/images/products/890/103/092/2787/front_en.3.400.jpg",
+    "image_ingredients_url": "https://images.openfoodfacts.org/images/products/890/103/092/2787/ingredients_en.10.400.jpg",
+    "image_nutrition_url": "https://images.openfoodfacts.org/images/products/890/103/092/2787/nutrition_en.11.400.jpg",
+    "image_packaging_url": "https://images.openfoodfacts.org/images/products/890/103/092/2787/packaging_en.16.400.jpg",
+    "image_url": "https://images.openfoodfacts.org/images/products/890/103/092/2787/front_en.3.400.jpg",
+    "ingredients": [
+      {
+        "id": "en:sugar",
+        "is_in_taxonomy": 1,
+        "percent_estimate": 53.5714285714286,
+        "percent_max": 100,
+        "percent_min": 7.14285714285714,
+        "text": "SUGAR",
+        "vegan": "yes",
+        "vegetarian": "yes"
+      },
+      {
+        "id": "en:mixed-fruit-pulp-blend",
+        "is_in_taxonomy": 0,
+        "percent_estimate": 23.2142857142857,
+        "percent_max": 50,
+        "percent_min": 0,
+        "text": "MIXED FRUIT PULP BLEND",
+        "ingredients": [
+          {
+            "id": "en:papaya",
+            "is_in_taxonomy": 1,
+            "percent_estimate": 11.6071428571429,
+            "percent_max": 50,
+            "percent_min": 0,
+            "text": "PAPAYA"
+          },
+          {
+            "id": "en:pear",
+            "is_in_taxonomy": 1,
+            "percent_estimate": 5.80357142857143,
+            "percent_max": 25,
+            "percent_min": 0,
+            "text": "PEAR"
+          },
+          {
+            "id": "en:apple-juice",
+            "is_in_taxonomy": 1,
+            "percent_estimate": 2.90178571428572,
+            "percent_max": 16.6666666666667,
+            "percent_min": 0,
+            "text": "APPLE JUICE"
+          },
+          {
+            "id": "en:banana",
+            "is_in_taxonomy": 1,
+            "percent_estimate": 1.45089285714286,
+            "percent_max": 12.5,
+            "percent_min": 0,
+            "text": "BANANA"
+          },
+          {
+            "id": "en:pineapple-juice",
+            "is_in_taxonomy": 1,
+            "percent_estimate": 0.725446428571429,
+            "percent_max": 10,
+            "percent_min": 0,
+            "text": "PINEAPPLE JUICE"
+          },
+          {
+            "id": "en:orange-juice",
+            "is_in_taxonomy": 1,
+            "percent_estimate": 0.362723214285715,
+            "percent_max": 8.33333333333333,
+            "percent_min": 0,
+            "text": "ORANGE JUICE"
+          },
+          {
+            "id": "en:mango",
+            "is_in_taxonomy": 1,
+            "percent_estimate": 0.181361607142858,
+            "percent_max": 7.14285714285714,
+            "percent_min": 0,
+            "text": "MANGO"
+          },
+          {
+            "id": "en:grape-juice",
+            "is_in_taxonomy": 1,
+            "percent_estimate": 0.181361607142858,
+            "percent_max": 6.25,
+            "percent_min": 0,
+            "text": "GRAPE JUICE"
+          }
+        ]
+      },
+      {
+        "id": "en:acidity-regulator",
+        "is_in_taxonomy": 1,
+        "percent_estimate": 11.6071428571429,
+        "percent_max": 33.3333333333333,
+        "percent_min": 0,
+        "text": "ACIDITY REGULATOR"
+      },
+      {
+        "id": "en:e330",
+        "is_in_taxonomy": 1,
+        "percent_estimate": 5.80357142857143,
+        "percent_max": 25,
+        "percent_min": 0,
+        "text": "e330",
+        "vegan": "yes",
+        "vegetarian": "yes"
+      },
+      {
+        "id": "en:thickener",
+        "is_in_taxonomy": 1,
+        "percent_estimate": 2.90178571428572,
+        "percent_max": 20,
+        "percent_min": 0,
+        "text": "THICKENER"
+      },
+      {
+        "id": "en:e440a",
+        "is_in_taxonomy": 1,
+        "percent_estimate": 1.45089285714286,
+        "percent_max": 16.6666666666667,
+        "percent_min": 0,
+        "text": "e440",
+        "vegan": "yes",
+        "vegetarian": "yes"
+      },
+      {
+        "ciqual_food_code": "11058",
+        "id": "en:iodised-salt",
+        "is_in_taxonomy": 1,
+        "percent_estimate": 0.06375,
+        "percent_max": 0.1275,
+        "percent_min": 0,
+        "text": "IODISED SALT",
+        "vegan": "yes",
+        "vegetarian": "yes"
+      },
+      {
+        "id": "en:vitamins",
+        "is_in_taxonomy": 1,
+        "percent_estimate": 0.06375,
+        "percent_max": 0.1275,
+        "percent_min": 0,
+        "text": "VITAMINS",
+        "vegan": "yes",
+        "vegetarian": "yes"
+      },
+      {
+        "id": "en:minerals",
+        "is_in_taxonomy": 1,
+        "percent_estimate": 0.06375,
+        "percent_max": 0.1275,
+        "percent_min": 0,
+        "text": "MINERAL"
+      },
+      {
+        "id": "en:preservative",
+        "is_in_taxonomy": 1,
+        "percent_estimate": 0.06375,
+        "percent_max": 0.1275,
+        "percent_min": 0,
+        "text": "PRESERVATIVE"
+      },
+      {
+        "id": "en:e202",
+        "is_in_taxonomy": 1,
+        "percent_estimate": 0.06375,
+        "percent_max": 0.1275,
+        "percent_min": 0,
+        "text": "e202",
+        "vegan": "yes",
+        "vegetarian": "yes"
+      },
+      {
+        "id": "en:natural-flavouring",
+        "is_in_taxonomy": 1,
+        "percent_estimate": 0.06375,
+        "percent_max": 0.1275,
+        "percent_min": 0,
+        "text": "NATURAL FLAVOURING SUBSTANCES",
+        "vegan": "maybe",
+        "vegetarian": "maybe"
+      },
+      {
+        "id": "en:food-colour",
+        "is_in_taxonomy": 0,
+        "percent_estimate": 0.06375,
+        "percent_max": 0.1275,
+        "percent_min": 0,
+        "text": "FOOD COLOUR"
+      },
+      {
+        "id": "en:e122",
+        "is_in_taxonomy": 1,
+        "percent_estimate": 1.00464285714287,
+        "percent_max": 0.1275,
+        "percent_min": 0,
+        "text": "e122",
+        "vegan": "yes",
+        "vegetarian": "yes"
+      }
+    ],
+    "nutrient_levels": {
+      "fat": "low",
+      "salt": "low",
+      "saturated-fat": "low",
+      "sugars": "high"
+    },
+    "nutriments": {
+      "carbohydrates": 70.5,
+      "carbohydrates_100g": 70.5,
+      "carbohydrates_unit": "g",
+      "carbohydrates_value": 70.5,
+      "energy": 1194,
+      "energy-kcal": 285.3,
+      "energy-kcal_100g": 285.3,
+      "energy-kcal_unit": "kcal",
+      "energy-kcal_value": 285.3,
+      "energy_100g": 1194,
+      "energy_unit": "kJ",
+      "energy_value": 1194,
+      "fat": 0.1,
+      "fat_100g": 0.1,
+      "fat_unit": "g",
+      "fat_value": 0.1,
+      "salt": 0.1275,
+      "salt_100g": 0.1275,
+      "salt_unit": "g",
+      "salt_value": 0.1275,
+      "sugars": 68.1,
+      "sugars_100g": 68.1,
+      "sugars_unit": "g",
+      "sugars_value": 68.1
+    },
+    "product_name": "Mixed Fruit Jam",
+    "product_name_en": "Mixed Fruit Jam",
+    "selected_images": {
+      "front": {
+        "display": {
+          "en": "https://images.openfoodfacts.org/images/products/890/103/092/2787/front_en.3.400.jpg"
+        },
+        "small": {
+          "en": "https://images.openfoodfacts.org/images/products/890/103/092/2787/front_en.3.200.jpg"
+        },
+        "thumb": {
+          "en": "https://images.openfoodfacts.org/images/products/890/103/092/2787/front_en.3.100.jpg"
+        }
+      },
+      "ingredients": {
+        "display": {
+          "en": "https://images.openfoodfacts.org/images/products/890/103/092/2787/ingredients_en.10.400.jpg"
+        },
+        "small": {
+          "en": "https://images.openfoodfacts.org/images/products/890/103/092/2787/ingredients_en.10.200.jpg"
+        },
+        "thumb": {
+          "en": "https://images.openfoodfacts.org/images/products/890/103/092/2787/ingredients_en.10.100.jpg"
+        }
+      }
+    },
+    "nutriscore_score": 13
+  },
+  {
+    "_id": "7622300336738",
+    "allergens": "en:gluten,en:soybeans",
+    "allergens_from_ingredients": "en:soybeans, en:gluten, en:gluten, wheat  flour, soy  lecithins",
+    "brands": "Mondelez, Oreo - Mondelēz International",
+    "code": "7622300336738",
+    "food_groups": "en:biscuits-and-cakes",
+    "id": "7622300336738",
+    "image_front_url": "https://images.openfoodfacts.org/images/products/762/230/033/6738/front_en.145.400.jpg",
+    "image_ingredients_url": "https://images.openfoodfacts.org/images/products/762/230/033/6738/ingredients_en.208.400.jpg",
+    "image_nutrition_url": "https://images.openfoodfacts.org/images/products/762/230/033/6738/nutrition_en.134.400.jpg",
+    "image_packaging_url": "",
+    "image_url": "https://images.openfoodfacts.org/images/products/762/230/033/6738/front_en.145.400.jpg",
+    "ingredients": [
+      {
+        "id": "en:wheat-flour",
+        "is_in_taxonomy": 1,
+        "percent_estimate": 45.5666666666667,
+        "percent_max": 82.8,
+        "percent_min": 8.33333333333333,
+        "text": "wheat flour",
+        "vegan": "yes",
+        "vegetarian": "yes"
+      },
+      {
+        "id": "en:sugar",
+        "is_in_taxonomy": 1,
+        "percent_estimate": 21.15,
+        "percent_max": 38,
+        "percent_min": 4.3,
+        "text": "sugar",
+        "vegan": "yes",
+        "vegetarian": "yes"
+      },
+      {
+        "ciqual_food_code": "16129",
+        "id": "en:palm-oil",
+        "is_in_taxonomy": 1,
+        "percent_estimate": 17.3833333333333,
+        "percent_max": 30.4666666666667,
+        "percent_min": 4.3,
+        "text": "palm oil",
+        "vegan": "yes",
+        "vegetarian": "yes"
+      },
+      {
+        "ciqual_food_code": "17130",
+        "id": "en:rapeseed-oil",
+        "is_in_taxonomy": 1,
+        "percent_estimate": 10.1,
+        "percent_max": 23.925,
+        "percent_min": 4.3,
+        "text": "rapeseed oil",
+        "vegan": "yes",
+        "vegetarian": "yes"
+      },
+      {
+        "id": "en:fat-reduced-cocoa",
+        "is_in_taxonomy": 1,
+        "percent_estimate": 4.3,
+        "percent_max": 4.3,
+        "percent_min": 4.3,
+        "text": "low-fat cocoa",
+        "vegan": "yes",
+        "vegetarian": "yes"
+      },
+      {
+        "id": "en:wheat-starch",
+        "is_in_taxonomy": 1,
+        "percent_estimate": 0.75,
+        "percent_max": 4.3,
+        "percent_min": 0,
+        "text": "wheat starch",
+        "vegan": "yes",
+        "vegetarian": "yes"
+      },
+      {
+        "ciqual_food_code": "31077",
+        "id": "en:glucose-fructose-syrup",
+        "is_in_taxonomy": 1,
+        "percent_estimate": 0.375,
+        "percent_max": 4.3,
+        "percent_min": 0,
+        "text": "glucose-fructose syrup",
+        "vegan": "yes",
+        "vegetarian": "yes"
+      },
+      {
+        "id": "en:raising-agent",
+        "is_in_taxonomy": 1,
+        "percent_estimate": 0.1875,
+        "percent_max": 4.3,
+        "percent_min": 0,
+        "text": "raising agents",
+        "ingredients": [
+          {
+            "id": "en:e503",
+            "is_in_taxonomy": 1,
+            "percent_estimate": 0.09375,
+            "percent_max": 4.3,
+            "percent_min": 0,
+            "text": "ammonium carbonates"
+          },
+          {
+            "id": "en:e501",
+            "is_in_taxonomy": 1,
+            "percent_estimate": 0.046875,
+            "percent_max": 2.15,
+            "percent_min": 0,
+            "text": "potassium carbonates"
+          },
+          {
+            "id": "en:e500",
+            "is_in_taxonomy": 1,
+            "percent_estimate": 0.046875,
+            "percent_max": 1.43333333333333,
+            "percent_min": 0,
+            "text": "sodium carbonates"
+          }
+        ]
+      },
+      {
+        "ciqual_food_code": "11058",
+        "id": "en:salt",
+        "is_in_taxonomy": 1,
+        "percent_estimate": 0.09375,
+        "percent_max": 0.73,
+        "percent_min": 0,
+        "text": "table salt",
+        "vegan": "yes",
+        "vegetarian": "yes"
+      },
+      {
+        "id": "en:emulsifier",
+        "is_in_taxonomy": 1,
+        "percent_estimate": 0.046875,
+        "percent_max": 0.73,
+        "percent_min": 0,
+        "text": "emulsifier",
+        "ingredients": [
+          {
+            "id": "en:soya-lecithin",
+            "is_in_taxonomy": 1,
+            "percent_estimate": 0.046875,
+            "percent_max": 0.73,
+            "percent_min": 0,
+            "text": "soy lecithins"
+          }
+        ]
+      },
+      {
+        "id": "en:acidity-regulator",
+        "is_in_taxonomy": 1,
+        "percent_estimate": 0.0234375,
+        "percent_max": 0.73,
+        "percent_min": 0,
+        "text": "acidity regulator",
+        "ingredients": [
+          {
+            "id": "en:e524",
+            "is_in_taxonomy": 1,
+            "percent_estimate": 0.0234375,
+            "percent_max": 0.73,
+            "percent_min": 0,
+            "text": "sodium hydroxide"
+          }
+        ]
+      },
+      {
+        "id": "en:flavouring",
+        "is_in_taxonomy": 1,
+        "percent_estimate": 0.0234375,
+        "percent_max": 0.73,
+        "percent_min": 0,
+        "text": "flavouring",
+        "vegan": "maybe",
+        "vegetarian": "maybe"
+      }
+    ],
+    "nutrient_levels": {
+      "fat": "moderate",
+      "salt": "moderate",
+      "saturated-fat": "high",
+      "sugars": "high"
+    },
+    "nutriments": {
+      "carbohydrates": 68,
+      "carbohydrates_100g": 68,
+      "carbohydrates_unit": "g",
+      "carbohydrates_value": 68,
+      "energy": 1997,
+      "energy-kcal": 476,
+      "energy-kcal_100g": 476,
+      "energy-kcal_unit": "kcal",
+      "energy-kcal_value": 476,
+      "energy_100g": 1997,
+      "energy_unit": "kJ",
+      "energy_value": 1997,
+      "fat": 20,
+      "fat_100g": 20,
+      "fat_unit": "g",
+      "fat_value": 20,
+      "salt": 0.73,
+      "salt_100g": 0.73,
+      "salt_unit": "g",
+      "salt_value": 0.73,
+      "sugars": 38,
+      "sugars_100g": 38,
+      "sugars_unit": "g",
+      "sugars_value": 38
+    },
+    "product_name": "Oreo",
+    "product_name_en": "Oreo",
+    "selected_images": {
+      "front": {
+        "display": {
+          "da": "https://images.openfoodfacts.org/images/products/762/230/033/6738/front_da.148.400.jpg",
+          "de": "https://images.openfoodfacts.org/images/products/762/230/033/6738/front_de.219.400.jpg",
+          "en": "https://images.openfoodfacts.org/images/products/762/230/033/6738/front_en.145.400.jpg",
+          "es": "https://images.openfoodfacts.org/images/products/762/230/033/6738/front_es.175.400.jpg",
+          "fi": "https://images.openfoodfacts.org/images/products/762/230/033/6738/front_fi.255.400.jpg",
+          "fr": "https://images.openfoodfacts.org/images/products/762/230/033/6738/front_fr.199.400.jpg",
+          "it": "https://images.openfoodfacts.org/images/products/762/230/033/6738/front_it.149.400.jpg",
+          "no": "https://images.openfoodfacts.org/images/products/762/230/033/6738/front_no.150.400.jpg",
+          "ro": "https://images.openfoodfacts.org/images/products/762/230/033/6738/front_ro.231.400.jpg",
+          "sv": "https://images.openfoodfacts.org/images/products/762/230/033/6738/front_sv.151.400.jpg"
+        },
+        "small": {
+          "da": "https://images.openfoodfacts.org/images/products/762/230/033/6738/front_da.148.200.jpg",
+          "de": "https://images.openfoodfacts.org/images/products/762/230/033/6738/front_de.219.200.jpg",
+          "en": "https://images.openfoodfacts.org/images/products/762/230/033/6738/front_en.145.200.jpg",
+          "es": "https://images.openfoodfacts.org/images/products/762/230/033/6738/front_es.175.200.jpg",
+          "fi": "https://images.openfoodfacts.org/images/products/762/230/033/6738/front_fi.255.200.jpg",
+          "fr": "https://images.openfoodfacts.org/images/products/762/230/033/6738/front_fr.199.200.jpg",
+          "it": "https://images.openfoodfacts.org/images/products/762/230/033/6738/front_it.149.200.jpg",
+          "no": "https://images.openfoodfacts.org/images/products/762/230/033/6738/front_no.150.200.jpg",
+          "ro": "https://images.openfoodfacts.org/images/products/762/230/033/6738/front_ro.231.200.jpg",
+          "sv": "https://images.openfoodfacts.org/images/products/762/230/033/6738/front_sv.151.200.jpg"
+        },
+        "thumb": {
+          "da": "https://images.openfoodfacts.org/images/products/762/230/033/6738/front_da.148.100.jpg",
+          "de": "https://images.openfoodfacts.org/images/products/762/230/033/6738/front_de.219.100.jpg",
+          "en": "https://images.openfoodfacts.org/images/products/762/230/033/6738/front_en.145.100.jpg",
+          "es": "https://images.openfoodfacts.org/images/products/762/230/033/6738/front_es.175.100.jpg",
+          "fi": "https://images.openfoodfacts.org/images/products/762/230/033/6738/front_fi.255.100.jpg",
+          "fr": "https://images.openfoodfacts.org/images/products/762/230/033/6738/front_fr.199.100.jpg",
+          "it": "https://images.openfoodfacts.org/images/products/762/230/033/6738/front_it.149.100.jpg",
+          "no": "https://images.openfoodfacts.org/images/products/762/230/033/6738/front_no.150.100.jpg",
+          "ro": "https://images.openfoodfacts.org/images/products/762/230/033/6738/front_ro.231.100.jpg",
+          "sv": "https://images.openfoodfacts.org/images/products/762/230/033/6738/front_sv.151.100.jpg"
+        }
+      },
+      "ingredients": {
+        "display": {
+          "de": "https://images.openfoodfacts.org/images/products/762/230/033/6738/ingredients_de.221.400.jpg",
+          "en": "https://images.openfoodfacts.org/images/products/762/230/033/6738/ingredients_en.208.400.jpg",
+          "fi": "https://images.openfoodfacts.org/images/products/762/230/033/6738/ingredients_fi.251.400.jpg",
+          "fr": "https://images.openfoodfacts.org/images/products/762/230/033/6738/ingredients_fr.200.400.jpg",
+          "it": "https://images.openfoodfacts.org/images/products/762/230/033/6738/ingredients_it.234.400.jpg",
+          "ro": "https://images.openfoodfacts.org/images/products/762/230/033/6738/ingredients_ro.238.400.jpg",
+          "sv": "https://images.openfoodfacts.org/images/products/762/230/033/6738/ingredients_sv.242.400.jpg"
+        },
+        "small": {
+          "de": "https://images.openfoodfacts.org/images/products/762/230/033/6738/ingredients_de.221.200.jpg",
+          "en": "https://images.openfoodfacts.org/images/products/762/230/033/6738/ingredients_en.208.200.jpg",
+          "fi": "https://images.openfoodfacts.org/images/products/762/230/033/6738/ingredients_fi.251.200.jpg",
+          "fr": "https://images.openfoodfacts.org/images/products/762/230/033/6738/ingredients_fr.200.200.jpg",
+          "it": "https://images.openfoodfacts.org/images/products/762/230/033/6738/ingredients_it.234.200.jpg",
+          "ro": "https://images.openfoodfacts.org/images/products/762/230/033/6738/ingredients_ro.238.200.jpg",
+          "sv": "https://images.openfoodfacts.org/images/products/762/230/033/6738/ingredients_sv.242.200.jpg"
+        },
+        "thumb": {
+          "de": "https://images.openfoodfacts.org/images/products/762/230/033/6738/ingredients_de.221.100.jpg",
+          "en": "https://images.openfoodfacts.org/images/products/762/230/033/6738/ingredients_en.208.100.jpg",
+          "fi": "https://images.openfoodfacts.org/images/products/762/230/033/6738/ingredients_fi.251.100.jpg",
+          "fr": "https://images.openfoodfacts.org/images/products/762/230/033/6738/ingredients_fr.200.100.jpg",
+          "it": "https://images.openfoodfacts.org/images/products/762/230/033/6738/ingredients_it.234.100.jpg",
+          "ro": "https://images.openfoodfacts.org/images/products/762/230/033/6738/ingredients_ro.238.100.jpg",
+          "sv": "https://images.openfoodfacts.org/images/products/762/230/033/6738/ingredients_sv.242.100.jpg"
+        }
+      }
+    },
+    "nutriscore_score": 19
+  },
+  {
+    "_id": "8901063029217",
+    "allergens": "en:gluten,en:milk,en:soybeans",
+    "allergens_from_ingredients": "en:milk, en:milk, en:milk, en:milk, en:gluten, en:gluten, BUTTER, BUTTER",
+    "brands": "Britannia",
+    "code": "8901063029217",
+    "food_groups": "en:biscuits-and-cakes",
+    "id": "8901063029217",
+    "image_front_url": "https://images.openfoodfacts.org/images/products/890/106/302/9217/front_en.14.400.jpg",
+    "image_ingredients_url": "https://images.openfoodfacts.org/images/products/890/106/302/9217/ingredients_en.29.400.jpg",
+    "image_nutrition_url": "https://images.openfoodfacts.org/images/products/890/106/302/9217/nutrition_en.27.400.jpg",
+    "image_packaging_url": "https://images.openfoodfacts.org/images/products/890/106/302/9217/packaging_en.9.400.jpg",
+    "image_url": "https://images.openfoodfacts.org/images/products/890/106/302/9217/front_en.14.400.jpg",
+    "ingredients": [
+      {
+        "id": "en:refined-wheat-flour",
+        "is_in_taxonomy": 1,
+        "percent_estimate": 47.2,
+        "percent_max": 70.4,
+        "percent_min": 24,
+        "text": "REFINED WHEAT FLOUR",
+        "vegan": "yes",
+        "vegetarian": "yes",
+        "ingredients": [
+          {
+            "id": "en:refined-wheat-flour",
+            "is_in_taxonomy": 1,
+            "percent_estimate": 47.2,
+            "percent_max": 70.4,
+            "percent_min": 24,
+            "text": "MAIDA"
+          }
+        ]
+      },
+      {
+        "id": "en:sugar",
+        "is_in_taxonomy": 1,
+        "percent_estimate": 24,
+        "percent_max": 24,
+        "percent_min": 24,
+        "text": "SUGAR",
+        "vegan": "yes",
+        "vegetarian": "yes"
+      },
+      {
+        "ciqual_food_code": "16150",
+        "id": "en:refined-palm-oil",
+        "is_in_taxonomy": 1,
+        "percent_estimate": 12.35,
+        "percent_max": 24,
+        "percent_min": 0.7,
+        "text": "REFINED PALM OIL",
+        "vegan": "yes",
+        "vegetarian": "yes"
+      },
+      {
+        "id": "en:interesterified-vegetable-fat",
+        "is_in_taxonomy": 0,
+        "percent_estimate": 8.575,
+        "percent_max": 24,
+        "percent_min": 0.7,
+        "text": "INTERESTERIFIED VEGETABLE FAT"
+      },
+      {
+        "id": "en:invert-sugar-syrup",
+        "is_in_taxonomy": 1,
+        "percent_estimate": 4.2875,
+        "percent_max": 17.1,
+        "percent_min": 0.7,
+        "text": "INVERT SUGAR SYRUP",
+        "vegan": "yes",
+        "vegetarian": "yes"
+      },
+      {
+        "id": "en:dextrose",
+        "is_in_taxonomy": 1,
+        "percent_estimate": 2.14375,
+        "percent_max": 12.65,
+        "percent_min": 0.7,
+        "text": "DEXTROSE",
+        "vegan": "yes",
+        "vegetarian": "yes"
+      },
+      {
+        "id": "en:dairy",
+        "is_in_taxonomy": 1,
+        "percent_estimate": 1.071875,
+        "percent_max": 9.98,
+        "percent_min": 0.7,
+        "text": "MILK PRODUCTS",
+        "vegan": "no",
+        "vegetarian": "maybe",
+        "ingredients": [
+          {
+            "id": "en:milk-solids",
+            "is_in_taxonomy": 1,
+            "percent_estimate": 0.710937500000002,
+            "percent_max": 9.98,
+            "percent_min": 0.35,
+            "text": "MILK SOLIDS"
+          },
+          {
+            "id": "en:sweetened-condensed-milk",
+            "is_in_taxonomy": 1,
+            "percent_estimate": 0.360937500000002,
+            "percent_max": 4.99,
+            "percent_min": 0,
+            "text": "SWEETENED CONDENSED MILK"
+          }
+        ]
+      },
+      {
+        "ciqual_food_code": "9510",
+        "id": "en:corn-starch",
+        "is_in_taxonomy": 1,
+        "percent_estimate": 0.535937500000001,
+        "percent_max": 8.2,
+        "percent_min": 0.7,
+        "text": "EDIBLE MAIZE STARCH",
+        "vegan": "yes",
+        "vegetarian": "yes"
+      },
+      {
+        "id": "en:maltodextrin",
+        "is_in_taxonomy": 1,
+        "percent_estimate": 0.26796875,
+        "percent_max": 6.92857142857143,
+        "percent_min": 0.7,
+        "text": "MALTODEXTRIN",
+        "vegan": "yes",
+        "vegetarian": "yes"
+      },
+      {
+        "id": "en:fruit-products",
+        "is_in_taxonomy": 0,
+        "percent_estimate": -0.432031249999994,
+        "percent_max": 0.7,
+        "percent_min": 0.7,
+        "text": "FRUIT PRODUCTS",
+        "ingredients": [
+          {
+            "id": "en:apple-juice",
+            "is_in_taxonomy": 1,
+            "percent_estimate": -0.0993489583333305,
+            "percent_max": 0.7,
+            "percent_min": 0.233333333333333,
+            "text": "APPLE JUICE"
+          },
+          {
+            "id": "en:banana",
+            "is_in_taxonomy": 1,
+            "percent_estimate": -0.166341145833332,
+            "percent_max": 0.35,
+            "percent_min": 0,
+            "text": "BANANA"
+          },
+          {
+            "id": "en:plum",
+            "is_in_taxonomy": 1,
+            "percent_estimate": -0.166341145833332,
+            "percent_max": 0.233333333333333,
+            "percent_min": 0,
+            "text": "PLUM"
+          }
+        ]
+      },
+      {
+        "ciqual_food_code": "11058",
+        "id": "en:iodised-salt",
+        "is_in_taxonomy": 1,
+        "percent_estimate": 0,
+        "percent_max": 0.535,
+        "percent_min": 0,
+        "text": "IODISED SALT",
+        "vegan": "yes",
+        "vegetarian": "yes"
+      },
+      {
+        "id": "en:emulsifier",
+        "is_in_taxonomy": 1,
+        "percent_estimate": 0,
+        "percent_max": 0.535,
+        "percent_min": 0,
+        "text": "EMULSIFIERS",
+        "ingredients": [
+          {
+            "id": "en:322",
+            "is_in_taxonomy": 0,
+            "percent_estimate": 0,
+            "percent_max": 0.535,
+            "percent_min": 0,
+            "text": "322",
+            "ingredients": [
+              {
+                "id": "en:i",
+                "is_in_taxonomy": 0,
+                "percent_estimate": 0,
+                "percent_max": 0.535,
+                "percent_min": 0,
+                "text": "i"
+              }
+            ]
+          },
+          {
+            "id": "en:471",
+            "is_in_taxonomy": 0,
+            "percent_estimate": 0,
+            "percent_max": 0.2675,
+            "percent_min": 0,
+            "text": "471"
+          }
+        ]
+      },
+      {
+        "id": "en:raising-agent",
+        "is_in_taxonomy": 1,
+        "percent_estimate": 0,
+        "percent_max": 0.535,
+        "percent_min": 0,
+        "text": "RAISING AGENTS",
+        "ingredients": [
+          {
+            "id": "en:503",
+            "is_in_taxonomy": 0,
+            "percent_estimate": 0,
+            "percent_max": 0.535,
+            "percent_min": 0,
+            "text": "503",
+            "ingredients": [
+              {
+                "id": "en:ii",
+                "is_in_taxonomy": 0,
+                "percent_estimate": 0,
+                "percent_max": 0.535,
+                "percent_min": 0,
+                "text": "ii"
+              }
+            ]
+          },
+          {
+            "id": "en:500",
+            "is_in_taxonomy": 0,
+            "percent_estimate": 0,
+            "percent_max": 0.2675,
+            "percent_min": 0,
+            "text": "500",
+            "ingredients": [
+              {
+                "id": "en:ii",
+                "is_in_taxonomy": 0,
+                "percent_estimate": 0,
+                "percent_max": 0.2675,
+                "percent_min": 0,
+                "text": "ii"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "en:nature-identical-and-artificial",
+        "is_in_taxonomy": 0,
+        "percent_estimate": 0,
+        "percent_max": 0.535,
+        "percent_min": 0,
+        "text": "NATURE IDENTICAL and ARTIFICIAL",
+        "ingredients": [
+          {
+            "id": "en:mixed-fruit",
+            "is_in_taxonomy": 1,
+            "percent_estimate": 0,
+            "percent_max": 0.535,
+            "percent_min": 0,
+            "text": "MIXED FRUIT"
+          },
+          {
+            "id": "en:vanilla",
+            "is_in_taxonomy": 1,
+            "percent_estimate": 0,
+            "percent_max": 0.2675,
+            "percent_min": 0,
+            "text": "VANILLA"
+          },
+          {
+            "id": "en:butter",
+            "is_in_taxonomy": 1,
+            "percent_estimate": 0,
+            "percent_max": 0.178333333333333,
+            "percent_min": 0,
+            "text": "BUTTER"
+          }
+        ]
+      },
+      {
+        "id": "en:flavouring",
+        "is_in_taxonomy": 1,
+        "percent_estimate": 0,
+        "percent_max": 0.535,
+        "percent_min": 0,
+        "text": "FLAVOURING SUBSTANCES",
+        "vegan": "maybe",
+        "vegetarian": "maybe"
+      },
+      {
+        "id": "en:acidity-regulator",
+        "is_in_taxonomy": 1,
+        "percent_estimate": 0,
+        "percent_max": 0.535,
+        "percent_min": 0,
+        "text": "ACIDITY REGULATORS",
+        "ingredients": [
+          {
+            "id": "en:330-and-331",
+            "is_in_taxonomy": 0,
+            "percent_estimate": 0,
+            "percent_max": 0.535,
+            "percent_min": 0,
+            "text": "330 and 331",
+            "ingredients": [
+              {
+                "id": "en:iii",
+                "is_in_taxonomy": 0,
+                "percent_estimate": 0,
+                "percent_max": 0.535,
+                "percent_min": 0,
+                "text": "iii"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "en:gelling-agent",
+        "is_in_taxonomy": 1,
+        "percent_estimate": 0,
+        "percent_max": 0.535,
+        "percent_min": 0,
+        "text": "GELLING AGENT",
+        "ingredients": [
+          {
+            "id": "en:440",
+            "is_in_taxonomy": 0,
+            "percent_estimate": 0,
+            "percent_max": 0.535,
+            "percent_min": 0,
+            "text": "440"
+          }
+        ]
+      },
+      {
+        "id": "en:colour",
+        "is_in_taxonomy": 1,
+        "percent_estimate": 0,
+        "percent_max": 0.535,
+        "percent_min": 0,
+        "text": "COLOUR",
+        "ingredients": [
+          {
+            "id": "en:122",
+            "is_in_taxonomy": 0,
+            "percent_estimate": 0,
+            "percent_max": 0.535,
+            "percent_min": 0,
+            "text": "122"
+          }
+        ]
+      }
+    ],
+    "nutrient_levels": {
+      "fat": "moderate",
+      "salt": "moderate",
+      "saturated-fat": "high",
+      "sugars": "high"
+    },
+    "nutriments": {
+      "carbohydrates": 73,
+      "carbohydrates_100g": 73,
+      "carbohydrates_unit": "g",
+      "carbohydrates_value": 73,
+      "energy": 2021,
+      "energy-kcal": 483,
+      "energy-kcal_100g": 483,
+      "energy-kcal_unit": "kcal",
+      "energy-kcal_value": 483,
+      "energy_100g": 2021,
+      "energy_unit": "kcal",
+      "energy_value": 483,
+      "fat": 19,
+      "fat_100g": 19,
+      "fat_unit": "g",
+      "fat_value": 19,
+      "salt": 0.535,
+      "salt_100g": 0.535,
+      "salt_unit": "mg",
+      "salt_value": 535,
+      "sugars": 33.5,
+      "sugars_100g": 33.5,
+      "sugars_unit": "g",
+      "sugars_value": 33.5
+    },
+    "product_name": "Jim Jam",
+    "product_name_en": "Jim Jam",
+    "selected_images": {
+      "front": {
+        "display": {
+          "en": "https://images.openfoodfacts.org/images/products/890/106/302/9217/front_en.14.400.jpg"
+        },
+        "small": {
+          "en": "https://images.openfoodfacts.org/images/products/890/106/302/9217/front_en.14.200.jpg"
+        },
+        "thumb": {
+          "en": "https://images.openfoodfacts.org/images/products/890/106/302/9217/front_en.14.100.jpg"
+        }
+      },
+      "ingredients": {
+        "display": {
+          "en": "https://images.openfoodfacts.org/images/products/890/106/302/9217/ingredients_en.29.400.jpg"
+        },
+        "small": {
+          "en": "https://images.openfoodfacts.org/images/products/890/106/302/9217/ingredients_en.29.200.jpg"
+        },
+        "thumb": {
+          "en": "https://images.openfoodfacts.org/images/products/890/106/302/9217/ingredients_en.29.100.jpg"
+        }
+      }
+    },
+    "nutriscore_score": 24
+  },
+  {
+    "_id": "5949000500538",
+    "allergens": "",
+    "allergens_from_ingredients": "",
+    "brands": "Mountain DEW",
+    "code": "5949000500538",
+    "food_groups": "en:sweetened-beverages",
+    "id": "5949000500538",
+    "image_front_url": "https://images.openfoodfacts.org/images/products/594/900/050/0538/front_ro.9.400.jpg",
+    "image_ingredients_url": "https://images.openfoodfacts.org/images/products/594/900/050/0538/ingredients_ro.23.400.jpg",
+    "image_nutrition_url": "https://images.openfoodfacts.org/images/products/594/900/050/0538/nutrition_ro.20.400.jpg",
+    "image_packaging_url": "https://images.openfoodfacts.org/images/products/594/900/050/0538/packaging_ro.15.400.jpg",
+    "image_url": "https://images.openfoodfacts.org/images/products/594/900/050/0538/front_ro.9.400.jpg",
+    "ingredients": [
+      {
+        "ciqual_food_code": "18066",
+        "id": "en:water",
+        "percent_estimate": 54.1666666666667,
+        "percent_max": 100,
+        "percent_min": 8.33333333333333,
+        "text": "Apă",
+        "vegan": "yes",
+        "vegetarian": "yes"
+      },
+      {
+        "id": "en:e290",
+        "percent_estimate": 22.9166666666667,
+        "percent_max": 50,
+        "percent_min": 0,
+        "text": "dioxid de carbon",
+        "vegan": "yes",
+        "vegetarian": "yes"
+      },
+      {
+        "id": "en:acid",
+        "percent_estimate": 11.4583333333333,
+        "percent_max": 33.3333333333333,
+        "percent_min": 0,
+        "text": "acidifiant",
+        "ingredients": [
+          {
+            "id": "en:e330",
+            "percent_estimate": 11.4583333333333,
+            "percent_max": 33.3333333333333,
+            "percent_min": 0,
+            "text": "acid citric"
+          }
+        ]
+      },
+      {
+        "id": "en:flavouring",
+        "percent_estimate": 2.5,
+        "percent_max": "5",
+        "percent_min": 0,
+        "text": "arome",
+        "vegan": "maybe",
+        "vegetarian": "maybe"
+      },
+      {
+        "id": "en:caffeine",
+        "percent_estimate": 2.5,
+        "percent_max": "5",
+        "percent_min": 0,
+        "text": "cafeină",
+        "vegan": "yes",
+        "vegetarian": "yes"
+      },
+      {
+        "id": "en:stabiliser",
+        "percent_estimate": 2.5,
+        "percent_max": "5",
+        "percent_min": 0,
+        "text": "stabilizatori",
+        "ingredients": [
+          {
+            "id": "en:e440a",
+            "percent_estimate": 1.25,
+            "percent_max": "5",
+            "percent_min": 0,
+            "text": "pectină"
+          },
+          {
+            "id": "en:e414",
+            "percent_estimate": 0.625,
+            "percent_max": 2.5,
+            "percent_min": 0,
+            "text": "gumă arabică"
+          },
+          {
+            "id": "ro:esteri-glicerici-ai-rasinilor-din-lemn",
+            "percent_estimate": 0.625,
+            "percent_max": 1.66666666666667,
+            "percent_min": 0,
+            "text": "esteri glicerici ai rasinilor din lemn"
+          }
+        ]
+      },
+      {
+        "id": "ro:îndulcitori",
+        "percent_estimate": 1.97916666666667,
+        "percent_max": "5",
+        "percent_min": 0,
+        "text": "îndulcitori",
+        "ingredients": [
+          {
+            "id": "ro:aspartaù",
+            "percent_estimate": 0.989583333333336,
+            "percent_max": "5",
+            "percent_min": 0,
+            "text": "aspartaù"
+          },
+          {
+            "id": "en:e950",
+            "percent_estimate": 0.494791666666668,
+            "percent_max": 2.5,
+            "percent_min": 0,
+            "text": "acesulfam de potasiu"
+          },
+          {
+            "id": "en:e955",
+            "percent_estimate": 0.494791666666668,
+            "percent_max": 1.66666666666667,
+            "percent_min": 0,
+            "text": "sucraloză"
+          }
+        ]
+      },
+      {
+        "id": "en:antioxidant",
+        "percent_estimate": 0.989583333333336,
+        "percent_max": "5",
+        "percent_min": 0,
+        "text": "antioxidant",
+        "ingredients": [
+          {
+            "id": "en:e300",
+            "percent_estimate": 0.989583333333336,
+            "percent_max": "5",
+            "percent_min": 0,
+            "text": "acid ascorbic"
+          }
+        ]
+      },
+      {
+        "id": "en:preservative",
+        "percent_estimate": 0.494791666666671,
+        "percent_max": "5",
+        "percent_min": 0,
+        "text": "conservant",
+        "ingredients": [
+          {
+            "id": "en:e202",
+            "percent_estimate": 0.494791666666671,
+            "percent_max": "5",
+            "percent_min": 0,
+            "text": "sorbat de potasiu"
+          }
+        ]
+      },
+      {
+        "id": "en:acidity-regulator",
+        "percent_estimate": 0.247395833333336,
+        "percent_max": "5",
+        "percent_min": 0,
+        "text": "corector de aciditate",
+        "ingredients": [
+          {
+            "id": "ro:citrati-de-potasiu",
+            "percent_estimate": 0.247395833333336,
+            "percent_max": "5",
+            "percent_min": 0,
+            "text": "citrati de potasiu"
+          }
+        ]
+      },
+      {
+        "id": "en:colour",
+        "percent_estimate": 0.123697916666671,
+        "percent_max": "5",
+        "percent_min": 0,
+        "text": "colorant",
+        "ingredients": [
+          {
+            "id": "en:e160ai",
+            "percent_estimate": 0.123697916666671,
+            "percent_max": "5",
+            "percent_min": 0,
+            "text": "beta caroten"
+          }
+        ]
+      },
+      {
+        "id": "ro:contine-sursă-de-fenilalanină",
+        "percent_estimate": 0.123697916666671,
+        "percent_max": "5",
+        "percent_min": 0,
+        "text": "Contine Sursă de fenilalanină"
+      }
+    ],
+    "nutrient_levels": {
+      "fat": "low",
+      "salt": "low",
+      "saturated-fat": "low",
+      "sugars": "high"
+    },
+    "nutriments": {
+      "carbohydrates": 13,
+      "carbohydrates_100g": 13,
+      "carbohydrates_unit": "g",
+      "carbohydrates_value": 13,
+      "energy": 220,
+      "energy-kcal": 52,
+      "energy-kcal_100g": 52,
+      "energy-kcal_unit": "kcal",
+      "energy-kcal_value": 52,
+      "energy_100g": 220,
+      "energy_unit": "kJ",
+      "energy_value": 220,
+      "fat": 0,
+      "fat_100g": 0,
+      "fat_unit": "g",
+      "fat_value": 0,
+      "salt": 0.01,
+      "salt_100g": 0.01,
+      "salt_unit": "g",
+      "salt_value": 0.01,
+      "sugars": 13,
+      "sugars_100g": 13,
+      "sugars_unit": "g",
+      "sugars_value": 13
+    },
+    "product_name": "Moutain Dew",
+    "product_name_en": "",
+    "selected_images": {
+      "front": {
+        "display": {
+          "fr": "https://images.openfoodfacts.org/images/products/594/900/050/0538/front_fr.17.400.jpg",
+          "ro": "https://images.openfoodfacts.org/images/products/594/900/050/0538/front_ro.9.400.jpg"
+        },
+        "small": {
+          "fr": "https://images.openfoodfacts.org/images/products/594/900/050/0538/front_fr.17.200.jpg",
+          "ro": "https://images.openfoodfacts.org/images/products/594/900/050/0538/front_ro.9.200.jpg"
+        },
+        "thumb": {
+          "fr": "https://images.openfoodfacts.org/images/products/594/900/050/0538/front_fr.17.100.jpg",
+          "ro": "https://images.openfoodfacts.org/images/products/594/900/050/0538/front_ro.9.100.jpg"
+        }
+      },
+      "ingredients": {
+        "display": {
+          "ro": "https://images.openfoodfacts.org/images/products/594/900/050/0538/ingredients_ro.23.400.jpg"
+        },
+        "small": {
+          "ro": "https://images.openfoodfacts.org/images/products/594/900/050/0538/ingredients_ro.23.200.jpg"
+        },
+        "thumb": {
+          "ro": "https://images.openfoodfacts.org/images/products/594/900/050/0538/ingredients_ro.23.100.jpg"
+        }
+      }
+    },
+    "nutriscore_score": 17
+  },
+  {
+    "_id": "8901764042911",
+    "allergens": "",
+    "allergens_from_ingredients": "",
+    "brands": "Thums up",
+    "code": "8901764042911",
+    "food_groups": "en:sweetened-beverages",
+    "id": "8901764042911",
+    "image_front_url": "https://images.openfoodfacts.org/images/products/890/176/404/2911/front_en.31.400.jpg",
+    "image_ingredients_url": "https://images.openfoodfacts.org/images/products/890/176/404/2911/ingredients_en.35.400.jpg",
+    "image_nutrition_url": "https://images.openfoodfacts.org/images/products/890/176/404/2911/nutrition_en.33.400.jpg",
+    "image_packaging_url": "",
+    "image_url": "https://images.openfoodfacts.org/images/products/890/176/404/2911/front_en.31.400.jpg",
+    "ingredients": [
+      {
+        "ciqual_food_code": "18066",
+        "id": "en:carbonated-water",
+        "percent_estimate": 73.75,
+        "percent_max": 100,
+        "percent_min": 47.5,
+        "text": "CARBONATED WATER",
+        "vegan": "yes",
+        "vegetarian": "yes"
+      },
+      {
+        "id": "en:sugar",
+        "percent_estimate": 4.75,
+        "percent_max": 9.5,
+        "percent_min": 0,
+        "text": "SUGAR",
+        "vegan": "yes",
+        "vegetarian": "yes"
+      },
+      {
+        "id": "en:acidity-regulator",
+        "percent_estimate": 4.75,
+        "percent_max": 9.5,
+        "percent_min": 0,
+        "text": "ACIDITY REGULATOR",
+        "ingredients": [
+          {
+            "id": "en:338",
+            "percent_estimate": 4.75,
+            "percent_max": 9.5,
+            "percent_min": 0,
+            "text": "338"
+          }
+        ]
+      },
+      {
+        "id": "en:caffeine",
+        "percent_estimate": 4.75,
+        "percent_max": 9.5,
+        "percent_min": 0,
+        "text": "CAFFEINE",
+        "vegan": "yes",
+        "vegetarian": "yes"
+      },
+      {
+        "id": "en:sweetener",
+        "percent_estimate": 4.75,
+        "percent_max": 9.5,
+        "percent_min": 0,
+        "text": "SWEETENER",
+        "ingredients": [
+          {
+            "id": "en:960",
+            "percent_estimate": 4.75,
+            "percent_max": 9.5,
+            "percent_min": 0,
+            "text": "960"
+          }
+        ]
+      },
+      {
+        "id": "en:colour",
+        "percent_estimate": 3.625,
+        "percent_max": 9.5,
+        "percent_min": 0,
+        "text": "COLOUR",
+        "ingredients": [
+          {
+            "id": "en:150-d",
+            "percent_estimate": 3.625,
+            "percent_max": 9.5,
+            "percent_min": 0,
+            "text": "150 d"
+          }
+        ]
+      },
+      {
+        "id": "en:flavouring",
+        "percent_estimate": 3.625,
+        "percent_max": "5",
+        "percent_min": 0,
+        "text": "FLAVOURS",
+        "vegan": "maybe",
+        "vegetarian": "maybe",
+        "ingredients": [
+          {
+            "id": "en:natural",
+            "percent_estimate": 1.8125,
+            "percent_max": "5",
+            "percent_min": 0,
+            "text": "NATURAL"
+          },
+          {
+            "id": "en:nature-identical-and-artificial",
+            "percent_estimate": 0.90625,
+            "percent_max": 2.5,
+            "percent_min": 0,
+            "text": "NATURE-IDENTICAL and ARTIFICIAL",
+            "ingredients": [
+              {
+                "id": "en:cola",
+                "percent_estimate": 0.90625,
+                "percent_max": 2.5,
+                "percent_min": 0,
+                "text": "COLA"
+              }
+            ]
+          },
+          {
+            "id": "en:flavouring",
+            "percent_estimate": 0.90625,
+            "percent_max": 1.66666666666667,
+            "percent_min": 0,
+            "text": "FLAVORING SUBSTANCES"
+          }
+        ]
+      }
+    ],
+    "nutrient_levels": {
+      "fat": "low",
+      "salt": "low",
+      "saturated-fat": "low",
+      "sugars": "high"
+    },
+    "nutriments": {
+      "carbohydrates": 9.7,
+      "carbohydrates_100g": 9.7,
+      "carbohydrates_unit": "g",
+      "carbohydrates_value": 9.7,
+      "energy": 163,
+      "energy-kcal": 39,
+      "energy-kcal_100g": 39,
+      "energy-kcal_unit": "kcal",
+      "energy-kcal_value": 39,
+      "energy_100g": 163,
+      "energy_unit": "kcal",
+      "energy_value": 39,
+      "fat": 0,
+      "fat_100g": 0,
+      "fat_unit": "g",
+      "fat_value": 0,
+      "salt": 0.055,
+      "salt_100g": 0.055,
+      "salt_unit": "g",
+      "salt_value": 0.055,
+      "sugars": 9.5,
+      "sugars_100g": 9.5,
+      "sugars_unit": "g",
+      "sugars_value": 9.5
+    },
+    "product_name": "Thums up",
+    "product_name_en": "Thums up",
+    "selected_images": {
+      "front": {
+        "display": {
+          "en": "https://images.openfoodfacts.org/images/products/890/176/404/2911/front_en.31.400.jpg"
+        },
+        "small": {
+          "en": "https://images.openfoodfacts.org/images/products/890/176/404/2911/front_en.31.200.jpg"
+        },
+        "thumb": {
+          "en": "https://images.openfoodfacts.org/images/products/890/176/404/2911/front_en.31.100.jpg"
+        }
+      },
+      "ingredients": {
+        "display": {
+          "en": "https://images.openfoodfacts.org/images/products/890/176/404/2911/ingredients_en.35.400.jpg"
+        },
+        "small": {
+          "en": "https://images.openfoodfacts.org/images/products/890/176/404/2911/ingredients_en.35.200.jpg"
+        },
+        "thumb": {
+          "en": "https://images.openfoodfacts.org/images/products/890/176/404/2911/ingredients_en.35.100.jpg"
+        }
+      }
+    },
+    "nutriscore_score": 13
+  },
+  {
+    "_id": "8901725007652",
+    "allergens": "",
+    "allergens_from_ingredients": "en:milk, en:milk, en:milk, en:gluten, en:gluten, BUTTER, BUTTER, MILK, SOY, BUTTER, BUTTER, MILK, SOY, WHEAT",
+    "brands": "Sunfeast",
+    "code": "8901725007652",
+    "food_groups": "en:biscuits-and-cakes",
+    "id": "8901725007652",
+    "image_front_url": "https://images.openfoodfacts.org/images/products/890/172/500/7652/front_en.12.400.jpg",
+    "image_ingredients_url": "https://images.openfoodfacts.org/images/products/890/172/500/7652/ingredients_en.7.400.jpg",
+    "image_nutrition_url": "https://images.openfoodfacts.org/images/products/890/172/500/7652/nutrition_en.5.400.jpg",
+    "image_packaging_url": "https://images.openfoodfacts.org/images/products/890/172/500/7652/packaging_en.9.400.jpg",
+    "image_url": "https://images.openfoodfacts.org/images/products/890/172/500/7652/front_en.12.400.jpg",
+    "ingredients": [
+      {
+        "id": "en:refined-wheat-flour",
+        "is_in_taxonomy": 1,
+        "percent_estimate": 51.125,
+        "percent_max": 96,
+        "percent_min": 6.25,
+        "text": "REFINED WHEAT FLOUR",
+        "vegan": "yes",
+        "vegetarian": "yes",
+        "ingredients": [
+          {
+            "id": "en:refined-wheat-flour",
+            "is_in_taxonomy": 1,
+            "percent_estimate": 51.125,
+            "percent_max": 96,
+            "percent_min": 6.25,
+            "text": "MAIDA"
+          }
+        ]
+      },
+      {
+        "ciqual_food_code": "16150",
+        "id": "en:refined-palm-oil",
+        "is_in_taxonomy": 1,
+        "percent_estimate": 24.75,
+        "percent_max": 48.5,
+        "percent_min": 1,
+        "text": "REFINED PALM OIL",
+        "vegan": "yes",
+        "vegetarian": "yes"
+      },
+      {
+        "id": "en:sugar",
+        "is_in_taxonomy": 1,
+        "percent_estimate": 11.6,
+        "percent_max": 22.2,
+        "percent_min": 1,
+        "text": "SUGAR",
+        "vegan": "yes",
+        "vegetarian": "yes"
+      },
+      {
+        "id": "en:invert-sugar-syrup",
+        "is_in_taxonomy": 1,
+        "percent_estimate": 6.7625,
+        "percent_max": 22.2,
+        "percent_min": 1,
+        "text": "INVERT SYRUP",
+        "vegan": "yes",
+        "vegetarian": "yes"
+      },
+      {
+        "id": "en:butter",
+        "is_in_taxonomy": 1,
+        "percent_estimate": 1,
+        "percent_max": 1,
+        "percent_min": 1,
+        "text": "BUTTER",
+        "vegan": "no",
+        "vegetarian": "yes"
+      },
+      {
+        "id": "en:milk-solids",
+        "is_in_taxonomy": 1,
+        "percent_estimate": 0.5,
+        "percent_max": 1,
+        "percent_min": 0,
+        "text": "MILK SOLIDS",
+        "vegan": "no",
+        "vegetarian": "yes"
+      },
+      {
+        "id": "en:raising-agent",
+        "is_in_taxonomy": 1,
+        "percent_estimate": 0.5,
+        "percent_max": 1,
+        "percent_min": 0,
+        "text": "RAISING AGENTS",
+        "ingredients": [
+          {
+            "id": "en:e503ii",
+            "is_in_taxonomy": 1,
+            "percent_estimate": 0.5,
+            "percent_max": 1,
+            "percent_min": 0,
+            "text": "e503ii"
+          }
+        ]
+      },
+      {
+        "id": "en:e500ii",
+        "is_in_taxonomy": 1,
+        "percent_estimate": 0.5,
+        "percent_max": 1,
+        "percent_min": 0,
+        "text": "e500ii",
+        "vegan": "yes",
+        "vegetarian": "yes"
+      },
+      {
+        "id": "en:e450i",
+        "is_in_taxonomy": 1,
+        "percent_estimate": 0.5,
+        "percent_max": 1,
+        "percent_min": 0,
+        "text": "e450i",
+        "vegan": "yes",
+        "vegetarian": "yes"
+      },
+      {
+        "ciqual_food_code": "11058",
+        "id": "en:iodised-salt",
+        "is_in_taxonomy": 1,
+        "percent_estimate": 0.215,
+        "percent_max": 0.43,
+        "percent_min": 0,
+        "text": "IODIZED SALT",
+        "vegan": "yes",
+        "vegetarian": "yes"
+      },
+      {
+        "id": "en:emulsifier",
+        "is_in_taxonomy": 1,
+        "percent_estimate": 0.215,
+        "percent_max": 0.43,
+        "percent_min": 0,
+        "text": "EMULSIFIERS",
+        "ingredients": [
+          {
+            "id": "en:e322i",
+            "is_in_taxonomy": 1,
+            "percent_estimate": 0.215,
+            "percent_max": 0.43,
+            "percent_min": 0,
+            "text": "LECITHIN",
+            "ingredients": [
+              {
+                "id": "en:from-soyabean",
+                "is_in_taxonomy": 0,
+                "percent_estimate": 0.215,
+                "percent_max": 0.43,
+                "percent_min": 0,
+                "text": "FROM SOYABEAN"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "en:e471",
+        "is_in_taxonomy": 1,
+        "percent_estimate": 0.215,
+        "percent_max": 0.43,
+        "percent_min": 0,
+        "text": "mono- and DIGLYCERIDES OF FATTY ACIDS",
+        "vegan": "maybe",
+        "vegetarian": "maybe",
+        "ingredients": [
+          {
+            "id": "en:palm-oil",
+            "is_in_taxonomy": 1,
+            "percent_estimate": 0.215,
+            "percent_max": 0.43,
+            "percent_min": 0,
+            "text": "FROM PALM OIL"
+          }
+        ]
+      },
+      {
+        "id": "en:diacetyl-tartaric-acid-ester-of-mono-and-diglycerides",
+        "is_in_taxonomy": 0,
+        "percent_estimate": 0.215,
+        "percent_max": 0.43,
+        "percent_min": 0,
+        "text": "DIACETYL TARTARIC ACID ESTER OF mono- and DIGLYCERIDES",
+        "ingredients": [
+          {
+            "id": "en:sunflower-oil",
+            "is_in_taxonomy": 1,
+            "percent_estimate": 0.1075,
+            "percent_max": 0.43,
+            "percent_min": 0,
+            "text": "FROM SUNFLOWER OIL"
+          },
+          {
+            "id": "en:palm-oil",
+            "is_in_taxonomy": 1,
+            "percent_estimate": 0.1075,
+            "percent_max": 0.215,
+            "percent_min": 0,
+            "text": "PALM OIL"
+          }
+        ]
+      },
+      {
+        "id": "en:nature-identical-flavouring",
+        "is_in_taxonomy": 1,
+        "percent_estimate": 0.215,
+        "percent_max": 0.43,
+        "percent_min": 0,
+        "text": "NATURE IDENTICAL FLAVOURING SUBSTANCES",
+        "vegan": "maybe",
+        "vegetarian": "maybe",
+        "ingredients": [
+          {
+            "id": "en:butter",
+            "is_in_taxonomy": 1,
+            "percent_estimate": 0.215,
+            "percent_max": 0.43,
+            "percent_min": 0,
+            "text": "BUTTER"
+          }
+        ]
+      },
+      {
+        "id": "en:colour",
+        "is_in_taxonomy": 1,
+        "percent_estimate": 0.215,
+        "percent_max": 0.43,
+        "percent_min": 0,
+        "text": "COLOUR",
+        "ingredients": [
+          {
+            "id": "en:e150a",
+            "is_in_taxonomy": 1,
+            "percent_estimate": 0.215,
+            "percent_max": 0.43,
+            "percent_min": 0,
+            "text": "e150a"
+          }
+        ]
+      },
+      {
+        "id": "en:artificial-flavouring",
+        "is_in_taxonomy": 1,
+        "percent_estimate": 1.47249999999998,
+        "percent_max": 0.43,
+        "percent_min": 0,
+        "text": "ARTIFICIAL FLAVOURING SUBSTANCES",
+        "vegan": "maybe",
+        "vegetarian": "maybe",
+        "ingredients": [
+          {
+            "id": "en:vanilla",
+            "is_in_taxonomy": 1,
+            "percent_estimate": 1.47249999999998,
+            "percent_max": 0.43,
+            "percent_min": 0,
+            "text": "VANILLA"
+          }
+        ]
+      }
+    ],
+    "nutrient_levels": {
+      "fat": "high",
+      "salt": "moderate",
+      "saturated-fat": "high",
+      "sugars": "high"
+    },
+    "nutriments": {
+      "carbohydrates": 67,
+      "carbohydrates_100g": 67,
+      "carbohydrates_unit": "g",
+      "carbohydrates_value": 67,
+      "energy": 2109,
+      "energy-kcal": 504,
+      "energy-kcal_100g": 504,
+      "energy-kcal_unit": "kcal",
+      "energy-kcal_value": 504,
+      "energy_100g": 2109,
+      "energy_unit": "kcal",
+      "energy_value": 504,
+      "fat": 23.3,
+      "fat_100g": 23.3,
+      "fat_unit": "g",
+      "fat_value": 23.3,
+      "salt": 0.43,
+      "salt_100g": 0.43,
+      "salt_unit": "g",
+      "salt_value": 0.43,
+      "sugars": 22.2,
+      "sugars_100g": 22.2,
+      "sugars_unit": "g",
+      "sugars_value": 22.2
+    },
+    "product_name": "Mom's Magic",
+    "product_name_en": "Mom's Magic",
+    "selected_images": {
+      "front": {
+        "display": {
+          "en": "https://images.openfoodfacts.org/images/products/890/172/500/7652/front_en.12.400.jpg"
+        },
+        "small": {
+          "en": "https://images.openfoodfacts.org/images/products/890/172/500/7652/front_en.12.200.jpg"
+        },
+        "thumb": {
+          "en": "https://images.openfoodfacts.org/images/products/890/172/500/7652/front_en.12.100.jpg"
+        }
+      },
+      "ingredients": {
+        "display": {
+          "en": "https://images.openfoodfacts.org/images/products/890/172/500/7652/ingredients_en.7.400.jpg"
+        },
+        "small": {
+          "en": "https://images.openfoodfacts.org/images/products/890/172/500/7652/ingredients_en.7.200.jpg"
+        },
+        "thumb": {
+          "en": "https://images.openfoodfacts.org/images/products/890/172/500/7652/ingredients_en.7.100.jpg"
+        }
+      }
+    },
+    "nutriscore_score": 21
+  },
+  {
+    "_id": "5449000053879",
+    "allergens": "",
+    "allergens_from_ingredients": "",
+    "brands": "Coca-Cola",
+    "code": "5449000053879",
+    "food_groups": "en:sweetened-beverages",
+    "id": "5449000053879",
+    "image_front_url": "https://images.openfoodfacts.org/images/products/544/900/005/3879/front_en.35.400.jpg",
+    "image_ingredients_url": "https://images.openfoodfacts.org/images/products/544/900/005/3879/ingredients_en.64.400.jpg",
+    "image_nutrition_url": "https://images.openfoodfacts.org/images/products/544/900/005/3879/nutrition_en.17.400.jpg",
+    "image_packaging_url": "https://images.openfoodfacts.org/images/products/544/900/005/3879/packaging_en.57.400.jpg",
+    "image_url": "https://images.openfoodfacts.org/images/products/544/900/005/3879/front_en.35.400.jpg",
+    "ingredients": [
+      {
+        "ciqual_food_code": "18066",
+        "id": "en:carbonated-water",
+        "percent_estimate": 57.1428571428571,
+        "percent_max": 100,
+        "percent_min": 14.2857142857143,
+        "text": "Carbonated Water",
+        "vegan": "yes",
+        "vegetarian": "yes"
+      },
+      {
+        "id": "en:colour",
+        "percent_estimate": 21.4285714285714,
+        "percent_max": 50,
+        "percent_min": 0,
+        "text": "Colour",
+        "ingredients": [
+          {
+            "id": "en:e150d",
+            "percent_estimate": 21.4285714285714,
+            "percent_max": 50,
+            "percent_min": 0,
+            "text": "e150d"
+          }
+        ]
+      },
+      {
+        "id": "en:sweetener",
+        "percent_estimate": 10.7142857142857,
+        "percent_max": 33.3333333333333,
+        "percent_min": 0,
+        "text": "Sweeteners"
+      },
+      {
+        "id": "en:aspartame-acesulfame-k",
+        "percent_estimate": 5.35714285714286,
+        "percent_max": 25,
+        "percent_min": 0,
+        "text": "Aspartame Acesulfame K"
+      },
+      {
+        "id": "en:natural-flavouring",
+        "percent_estimate": 2.5,
+        "percent_max": "5",
+        "percent_min": 0,
+        "text": "Natural Flavourings",
+        "vegan": "maybe",
+        "vegetarian": "maybe"
+      },
+      {
+        "id": "en:caffeine-flavouring",
+        "percent_estimate": 1.42857142857143,
+        "percent_max": "5",
+        "percent_min": 0,
+        "text": "Caffeine Flavouring"
+      },
+      {
+        "id": "en:acid",
+        "percent_estimate": 1.42857142857143,
+        "percent_max": "5",
+        "percent_min": 0,
+        "text": "Acids",
+        "ingredients": [
+          {
+            "id": "en:e338",
+            "percent_estimate": 0.714285714285715,
+            "percent_max": "5",
+            "percent_min": 0,
+            "text": "Phosphoric Acid"
+          },
+          {
+            "id": "en:e330",
+            "percent_estimate": 0.714285714285715,
+            "percent_max": 2.5,
+            "percent_min": 0,
+            "text": "Citric Acid"
+          }
+        ]
+      }
+    ],
+    "nutrient_levels": {
+      "fat": "low",
+      "salt": "low",
+      "saturated-fat": "low",
+      "sugars": "low"
+    },
+    "nutriments": {
+      "carbohydrates": 0,
+      "carbohydrates_100g": 0,
+      "carbohydrates_unit": "g",
+      "carbohydrates_value": 0,
+      "energy": 1.6,
+      "energy-kcal": 0.4,
+      "energy-kcal_100g": 0.4,
+      "energy-kcal_unit": "kcal",
+      "energy-kcal_value": 0.4,
+      "energy_100g": 1.6,
+      "energy_unit": "kJ",
+      "energy_value": 1.6,
+      "fat": 0,
+      "fat_100g": 0,
+      "fat_unit": "g",
+      "fat_value": 0,
+      "salt": 0,
+      "salt_100g": 0,
+      "salt_unit": "g",
+      "salt_value": 0,
+      "sugars": 0,
+      "sugars_100g": 0,
+      "sugars_unit": "g",
+      "sugars_value": 0
+    },
+    "product_name": "Diet Coke",
+    "product_name_en": "Diet Coke",
+    "selected_images": {
+      "front": {
+        "display": {
+          "en": "https://images.openfoodfacts.org/images/products/544/900/005/3879/front_en.35.400.jpg"
+        },
+        "small": {
+          "en": "https://images.openfoodfacts.org/images/products/544/900/005/3879/front_en.35.200.jpg"
+        },
+        "thumb": {
+          "en": "https://images.openfoodfacts.org/images/products/544/900/005/3879/front_en.35.100.jpg"
+        }
+      },
+      "ingredients": {
+        "display": {
+          "en": "https://images.openfoodfacts.org/images/products/544/900/005/3879/ingredients_en.64.400.jpg",
+          "fr": "https://images.openfoodfacts.org/images/products/544/900/005/3879/ingredients_fr.24.400.jpg"
+        },
+        "small": {
+          "en": "https://images.openfoodfacts.org/images/products/544/900/005/3879/ingredients_en.64.200.jpg",
+          "fr": "https://images.openfoodfacts.org/images/products/544/900/005/3879/ingredients_fr.24.200.jpg"
+        },
+        "thumb": {
+          "en": "https://images.openfoodfacts.org/images/products/544/900/005/3879/ingredients_en.64.100.jpg",
+          "fr": "https://images.openfoodfacts.org/images/products/544/900/005/3879/ingredients_fr.24.100.jpg"
+        }
+      }
+    },
+    "nutriscore_score": 1
+  },
+  {
+    "_id": "8410376047578",
+    "allergens": "en:gluten",
+    "allergens_from_ingredients": "en:gluten",
+    "brands": "Gullón",
+    "code": "8410376047578",
+    "food_groups": "en:biscuits-and-cakes",
+    "id": "8410376047578",
+    "image_front_url": "https://images.openfoodfacts.org/images/products/841/037/604/7578/front_en.59.400.jpg",
+    "image_ingredients_url": "https://images.openfoodfacts.org/images/products/841/037/604/7578/ingredients_es.9.400.jpg",
+    "image_nutrition_url": "https://images.openfoodfacts.org/images/products/841/037/604/7578/nutrition_en.57.400.jpg",
+    "image_packaging_url": "",
+    "image_url": "https://images.openfoodfacts.org/images/products/841/037/604/7578/front_en.59.400.jpg",
+    "ingredients": [
+      {
+        "ciqual_food_code": "9311",
+        "id": "en:oat-flakes",
+        "is_in_taxonomy": 1,
+        "percent_estimate": 42.5,
+        "percent_max": 42.5,
+        "percent_min": 42.5,
+        "text": "Copos de avena",
+        "vegan": "yes",
+        "vegetarian": "yes"
+      },
+      {
+        "id": "en:whole-wheat-flour",
+        "is_in_taxonomy": 1,
+        "percent_estimate": 18,
+        "percent_max": 18,
+        "percent_min": 18,
+        "text": "harina integral de trigo",
+        "vegan": "yes",
+        "vegetarian": "yes"
+      },
+      {
+        "id": "en:vegetable-oil",
+        "is_in_taxonomy": 1,
+        "percent_estimate": 17.5,
+        "percent_max": 17.5,
+        "percent_min": 17.5,
+        "text": "aceite vegetal",
+        "vegan": "yes",
+        "vegetarian": "yes",
+        "ingredients": [
+          {
+            "id": "en:high-oleic-sunflower",
+            "is_in_taxonomy": 1,
+            "percent_estimate": 17.5,
+            "percent_max": 17.5,
+            "percent_min": 17.5,
+            "text": "girasol alto oleico"
+          }
+        ]
+      },
+      {
+        "id": "en:sugar",
+        "is_in_taxonomy": 1,
+        "percent_estimate": 9.5,
+        "percent_max": 17.5,
+        "percent_min": 1.5,
+        "text": "azúcar",
+        "vegan": "yes",
+        "vegetarian": "yes"
+      },
+      {
+        "ciqual_food_code": "31077",
+        "id": "en:glucose-fructose-syrup",
+        "is_in_taxonomy": 1,
+        "percent_estimate": 7,
+        "percent_max": 12.7352941176471,
+        "percent_min": 1.5,
+        "text": "jarabe de glucosa y fructosa",
+        "vegan": "yes",
+        "vegetarian": "yes"
+      },
+      {
+        "id": "es:preparado-de-frutas",
+        "is_in_taxonomy": 0,
+        "percent_estimate": 1.5,
+        "percent_max": 1.5,
+        "percent_min": 1.5,
+        "text": "preparado de frutas"
+      },
+      {
+        "ciqual_food_code": "31077",
+        "id": "en:fructose-syrup",
+        "is_in_taxonomy": 1,
+        "percent_estimate": 0.8,
+        "percent_max": 1.5,
+        "percent_min": 0.1,
+        "text": "jarabe de fructosa",
+        "vegan": "yes",
+        "vegetarian": "yes"
+      },
+      {
+        "id": "en:glucose",
+        "is_in_taxonomy": 1,
+        "percent_estimate": 0.8,
+        "percent_max": 1.5,
+        "percent_min": 0.1,
+        "text": "glucOsa",
+        "vegan": "yes",
+        "vegetarian": "yes"
+      },
+      {
+        "id": "en:fruit",
+        "is_in_taxonomy": 1,
+        "percent_estimate": 0.8,
+        "percent_max": 1.5,
+        "percent_min": 0.1,
+        "text": "fruta",
+        "vegan": "yes",
+        "vegetarian": "yes",
+        "ingredients": [
+          {
+            "id": "en:apple-puree",
+            "is_in_taxonomy": 1,
+            "percent_estimate": 0.4,
+            "percent_max": 1.5,
+            "percent_min": 0,
+            "text": "puré de manzana"
+          },
+          {
+            "id": "en:orange-juice",
+            "is_in_taxonomy": 1,
+            "percent_estimate": 0.4,
+            "percent_max": 0.75,
+            "percent_min": 0,
+            "text": "zumo de naranja"
+          }
+        ]
+      },
+      {
+        "id": "en:glucose-syrup",
+        "is_in_taxonomy": 1,
+        "percent_estimate": 0.8,
+        "percent_max": 1.5,
+        "percent_min": 0.1,
+        "text": "jarabe de glucosa",
+        "vegan": "yes",
+        "vegetarian": "yes"
+      },
+      {
+        "id": "en:humectant",
+        "is_in_taxonomy": 1,
+        "percent_estimate": 0.450000000000006,
+        "percent_max": 1.5,
+        "percent_min": 0.1,
+        "text": "humectante",
+        "ingredients": [
+          {
+            "id": "en:e422",
+            "is_in_taxonomy": 1,
+            "percent_estimate": 0.450000000000006,
+            "percent_max": 1.5,
+            "percent_min": 0,
+            "text": "glicerol"
+          }
+        ]
+      },
+      {
+        "id": "en:sugar",
+        "is_in_taxonomy": 1,
+        "percent_estimate": 0.225000000000004,
+        "percent_max": 1.5,
+        "percent_min": 0.1,
+        "text": "azúcar",
+        "vegan": "yes",
+        "vegetarian": "yes"
+      },
+      {
+        "id": "en:wheat-fiber",
+        "is_in_taxonomy": 1,
+        "percent_estimate": 0.1125,
+        "percent_max": 1.5,
+        "percent_min": 0.1,
+        "text": "fibra de trigo",
+        "vegan": "yes",
+        "vegetarian": "yes"
+      },
+      {
+        "id": "en:gelling-agent",
+        "is_in_taxonomy": 1,
+        "percent_estimate": 0.0562500000000014,
+        "percent_max": 1.5,
+        "percent_min": 0.1,
+        "text": "gelificante",
+        "ingredients": [
+          {
+            "id": "en:e440a",
+            "is_in_taxonomy": 1,
+            "percent_estimate": 0.0562500000000014,
+            "percent_max": 1.5,
+            "percent_min": 0,
+            "text": "pectina"
+          }
+        ]
+      },
+      {
+        "id": "en:acidity-regulator",
+        "is_in_taxonomy": 1,
+        "percent_estimate": 0.0281249999999986,
+        "percent_max": 1.5,
+        "percent_min": 0.1,
+        "text": "corrector de acidez",
+        "ingredients": [
+          {
+            "id": "en:e330",
+            "is_in_taxonomy": 1,
+            "percent_estimate": 0.0281249999999986,
+            "percent_max": 1.5,
+            "percent_min": 0,
+            "text": "ácido citrico"
+          }
+        ]
+      },
+      {
+        "id": "en:flavouring",
+        "is_in_taxonomy": 1,
+        "percent_estimate": 0.0140624999999972,
+        "percent_max": 1.5,
+        "percent_min": 0.1,
+        "text": "aroma",
+        "vegan": "maybe",
+        "vegetarian": "maybe"
+      },
+      {
+        "id": "en:colour",
+        "is_in_taxonomy": 1,
+        "percent_estimate": 0.00703125,
+        "percent_max": 1.5,
+        "percent_min": 0.1,
+        "text": "colorante",
+        "ingredients": [
+          {
+            "id": "en:e100",
+            "is_in_taxonomy": 1,
+            "percent_estimate": 0.00703125,
+            "percent_max": 1.5,
+            "percent_min": 0,
+            "text": "curcumina"
+          }
+        ]
+      },
+      {
+        "id": "en:raising-agent",
+        "is_in_taxonomy": 1,
+        "percent_estimate": 0.00351562500000142,
+        "percent_max": 1.5,
+        "percent_min": 0.1,
+        "text": "gasificantes",
+        "ingredients": [
+          {
+            "id": "en:e500ii",
+            "is_in_taxonomy": 1,
+            "percent_estimate": 0.00175781250000071,
+            "percent_max": 1.5,
+            "percent_min": 0,
+            "text": "carbonato ácido de sodio"
+          },
+          {
+            "id": "en:e503ii",
+            "is_in_taxonomy": 1,
+            "percent_estimate": 0.00175781250000071,
+            "percent_max": 0.75,
+            "percent_min": 0,
+            "text": "carbonato ácido de amonio"
+          }
+        ]
+      },
+      {
+        "ciqual_food_code": "11058",
+        "id": "en:salt",
+        "is_in_taxonomy": 1,
+        "percent_estimate": 0.00175781249999858,
+        "percent_max": 0.965,
+        "percent_min": 0.1,
+        "text": "sal",
+        "vegan": "yes",
+        "vegetarian": "yes"
+      },
+      {
+        "id": "en:orange-flavouring",
+        "is_in_taxonomy": 1,
+        "percent_estimate": -0.0982421875000057,
+        "percent_max": 0.1,
+        "percent_min": 0.1,
+        "text": "aroma de naranja",
+        "vegan": "maybe",
+        "vegetarian": "maybe"
+      }
+    ],
+    "nutrient_levels": {
+      "fat": "high",
+      "salt": "moderate",
+      "saturated-fat": "moderate",
+      "sugars": "high"
+    },
+    "nutriments": {
+      "carbohydrates": 60,
+      "carbohydrates_100g": 60,
+      "carbohydrates_unit": "g",
+      "carbohydrates_value": 60,
+      "energy": 1989,
+      "energy-kcal": 475,
+      "energy-kcal_100g": 475,
+      "energy-kcal_unit": "kcal",
+      "energy-kcal_value": 475,
+      "energy_100g": 1989,
+      "energy_unit": "kJ",
+      "energy_value": 1989,
+      "fat": 21,
+      "fat_100g": 21,
+      "fat_unit": "g",
+      "fat_value": 21,
+      "salt": 0.965,
+      "salt_100g": 0.965,
+      "salt_unit": "g",
+      "salt_value": 0.965,
+      "sugars": 18,
+      "sugars_100g": 18,
+      "sugars_unit": "g",
+      "sugars_value": 18
+    },
+    "product_name": "Digestive Oats Orange",
+    "product_name_en": "Digestive Oats Orange",
+    "selected_images": {
+      "front": {
+        "display": {
+          "en": "https://images.openfoodfacts.org/images/products/841/037/604/7578/front_en.59.400.jpg",
+          "es": "https://images.openfoodfacts.org/images/products/841/037/604/7578/front_es.61.400.jpg"
+        },
+        "small": {
+          "en": "https://images.openfoodfacts.org/images/products/841/037/604/7578/front_en.59.200.jpg",
+          "es": "https://images.openfoodfacts.org/images/products/841/037/604/7578/front_es.61.200.jpg"
+        },
+        "thumb": {
+          "en": "https://images.openfoodfacts.org/images/products/841/037/604/7578/front_en.59.100.jpg",
+          "es": "https://images.openfoodfacts.org/images/products/841/037/604/7578/front_es.61.100.jpg"
+        }
+      },
+      "ingredients": {
+        "display": {
+          "es": "https://images.openfoodfacts.org/images/products/841/037/604/7578/ingredients_es.9.400.jpg"
+        },
+        "small": {
+          "es": "https://images.openfoodfacts.org/images/products/841/037/604/7578/ingredients_es.9.200.jpg"
+        },
+        "thumb": {
+          "es": "https://images.openfoodfacts.org/images/products/841/037/604/7578/ingredients_es.9.100.jpg"
+        }
+      }
+    },
+    "nutriscore_score": 9
+  },
+  {
+    "_id": "3168930164661",
+    "allergens": "en:soybeans",
+    "allergens_from_ingredients": "",
+    "brands": "Lay's",
+    "code": "3168930164661",
+    "food_groups": "en:appetizers",
+    "id": "3168930164661",
+    "image_front_url": "https://images.openfoodfacts.org/images/products/316/893/016/4661/front_fr.66.400.jpg",
+    "image_ingredients_url": "https://images.openfoodfacts.org/images/products/316/893/016/4661/ingredients_fr.60.400.jpg",
+    "image_nutrition_url": "https://images.openfoodfacts.org/images/products/316/893/016/4661/nutrition_fr.40.400.jpg",
+    "image_packaging_url": "https://images.openfoodfacts.org/images/products/316/893/016/4661/packaging_fr.41.400.jpg",
+    "image_url": "https://images.openfoodfacts.org/images/products/316/893/016/4661/front_fr.66.400.jpg",
+    "ingredients": [
+      {
+        "ciqual_food_code": "4003",
+        "id": "en:potato",
+        "is_in_taxonomy": 1,
+        "percent_estimate": 62,
+        "percent_max": 62,
+        "percent_min": 62,
+        "text": "Pommes de terre",
+        "vegan": "yes",
+        "vegetarian": "yes"
+      },
+      {
+        "id": "en:vegetable-oil",
+        "is_in_taxonomy": 1,
+        "percent_estimate": 35.5,
+        "percent_max": 38,
+        "percent_min": 33,
+        "text": "huiles végétales",
+        "vegan": "yes",
+        "vegetarian": "yes",
+        "ingredients": [
+          {
+            "id": "en:sunflower",
+            "is_in_taxonomy": 1,
+            "percent_estimate": 23.25,
+            "percent_max": 38,
+            "percent_min": 11,
+            "text": "tournesol"
+          },
+          {
+            "id": "en:rapeseed",
+            "is_in_taxonomy": 1,
+            "percent_estimate": 6.125,
+            "percent_max": 19,
+            "percent_min": 0,
+            "text": "colza"
+          },
+          {
+            "id": "en:corn",
+            "is_in_taxonomy": 1,
+            "percent_estimate": 6.125,
+            "percent_max": 12.6666666666667,
+            "percent_min": 0,
+            "text": "maïs"
+          }
+        ]
+      },
+      {
+        "id": "en:barbecue-flavouring",
+        "is_in_taxonomy": 1,
+        "percent_estimate": 2.5,
+        "percent_max": "5",
+        "percent_min": 0,
+        "text": "base aromatisante barbecue",
+        "vegan": "maybe",
+        "vegetarian": "maybe",
+        "ingredients": [
+          {
+            "id": "en:sugar",
+            "is_in_taxonomy": 1,
+            "percent_estimate": 1.25,
+            "percent_max": 2.8,
+            "percent_min": 0,
+            "text": "sucre"
+          },
+          {
+            "id": "en:salt",
+            "is_in_taxonomy": 1,
+            "percent_estimate": 0.55,
+            "percent_max": 1.1,
+            "percent_min": 0,
+            "text": "sel"
+          },
+          {
+            "id": "en:maltodextrin",
+            "is_in_taxonomy": 1,
+            "percent_estimate": 0.35,
+            "percent_max": 1.1,
+            "percent_min": 0,
+            "text": "maltodextrine"
+          },
+          {
+            "id": "en:flavouring",
+            "is_in_taxonomy": 1,
+            "percent_estimate": 0.175,
+            "percent_max": 1.1,
+            "percent_min": 0,
+            "text": "arôme",
+            "ingredients": [
+              {
+                "id": "en:soya",
+                "is_in_taxonomy": 1,
+                "percent_estimate": 0.175,
+                "percent_max": 1.1,
+                "percent_min": 0,
+                "text": "dont soja"
+              }
+            ]
+          },
+          {
+            "id": "en:dextrose",
+            "is_in_taxonomy": 1,
+            "percent_estimate": 0.0874999999999999,
+            "percent_max": 1.1,
+            "percent_min": 0,
+            "text": "dextrose"
+          },
+          {
+            "id": "en:paprika",
+            "is_in_taxonomy": 1,
+            "percent_estimate": 0.04375,
+            "percent_max": 0.833333333333333,
+            "percent_min": 0,
+            "text": "paprika"
+          },
+          {
+            "id": "en:onion",
+            "is_in_taxonomy": 1,
+            "percent_estimate": 0.0218750000000001,
+            "percent_max": 0.714285714285714,
+            "percent_min": 0,
+            "text": "oignon"
+          },
+          {
+            "id": "en:tomato",
+            "is_in_taxonomy": 1,
+            "percent_estimate": 0.0109375,
+            "percent_max": 0.625,
+            "percent_min": 0,
+            "text": "tomate"
+          },
+          {
+            "id": "en:garlic",
+            "is_in_taxonomy": 1,
+            "percent_estimate": 0.00546874999999991,
+            "percent_max": 0.555555555555556,
+            "percent_min": 0,
+            "text": "ail"
+          },
+          {
+            "id": "en:acidity-regulator",
+            "is_in_taxonomy": 1,
+            "percent_estimate": 0.00273437499999996,
+            "percent_max": 0.5,
+            "percent_min": 0,
+            "text": "correcteurs d'acidité",
+            "ingredients": [
+              {
+                "id": "en:e296",
+                "is_in_taxonomy": 1,
+                "percent_estimate": 0.00136718749999998,
+                "percent_max": 0.5,
+                "percent_min": 0,
+                "text": "acide malique"
+              },
+              {
+                "id": "en:e330",
+                "is_in_taxonomy": 1,
+                "percent_estimate": 0.00136718749999998,
+                "percent_max": 0.25,
+                "percent_min": 0,
+                "text": "acide citrique"
+              }
+            ]
+          },
+          {
+            "id": "en:colour",
+            "is_in_taxonomy": 1,
+            "percent_estimate": 0.00136718750000009,
+            "percent_max": 0.454545454545455,
+            "percent_min": 0,
+            "text": "colorant",
+            "ingredients": [
+              {
+                "id": "en:e160c",
+                "is_in_taxonomy": 1,
+                "percent_estimate": 0.00136718750000009,
+                "percent_max": 0.454545454545455,
+                "percent_min": 0,
+                "text": "extrait de paprika"
+              }
+            ]
+          },
+          {
+            "id": "en:smoke-flavouring",
+            "is_in_taxonomy": 1,
+            "percent_estimate": 0.00136718750000009,
+            "percent_max": 0.416666666666667,
+            "percent_min": 0,
+            "text": "arôme de fumée"
+          }
+        ]
+      }
+    ],
+    "nutrient_levels": {
+      "fat": "high",
+      "salt": "moderate",
+      "saturated-fat": "moderate",
+      "sugars": "low"
+    },
+    "nutriments": {
+      "carbohydrates": 54,
+      "carbohydrates_100g": 54,
+      "carbohydrates_unit": "g",
+      "carbohydrates_value": 54,
+      "energy": 2096,
+      "energy-kcal": 501,
+      "energy-kcal_100g": 501,
+      "energy-kcal_unit": "kcal",
+      "energy-kcal_value": 501,
+      "energy_100g": 2096,
+      "energy_unit": "kJ",
+      "energy_value": 2096,
+      "fat": 28,
+      "fat_100g": 28,
+      "fat_unit": "g",
+      "fat_value": 28,
+      "salt": 1.1,
+      "salt_100g": 1.1,
+      "salt_unit": "g",
+      "salt_value": 1.1,
+      "sugars": 2.8,
+      "sugars_100g": 2.8,
+      "sugars_unit": "g",
+      "sugars_value": 2.8
+    },
+    "product_name": "Chips saveur barbecue",
+    "product_name_en": "Chips saveur barbecue",
+    "selected_images": {
+      "front": {
+        "display": {
+          "fr": "https://images.openfoodfacts.org/images/products/316/893/016/4661/front_fr.66.400.jpg"
+        },
+        "small": {
+          "fr": "https://images.openfoodfacts.org/images/products/316/893/016/4661/front_fr.66.200.jpg"
+        },
+        "thumb": {
+          "fr": "https://images.openfoodfacts.org/images/products/316/893/016/4661/front_fr.66.100.jpg"
+        }
+      },
+      "ingredients": {
+        "display": {
+          "fr": "https://images.openfoodfacts.org/images/products/316/893/016/4661/ingredients_fr.60.400.jpg"
+        },
+        "small": {
+          "fr": "https://images.openfoodfacts.org/images/products/316/893/016/4661/ingredients_fr.60.200.jpg"
+        },
+        "thumb": {
+          "fr": "https://images.openfoodfacts.org/images/products/316/893/016/4661/ingredients_fr.60.100.jpg"
+        }
+      }
+    },
+    "nutriscore_score": 9
+  },
+  {
+    "_id": "0789742895050",
+    "allergens": "en:milk,en:nuts,en:soybeans",
+    "allergens_from_ingredients": "en:milk, en:nuts, AVELLANAS",
+    "brands": "Ferrero",
+    "code": "0789742895050",
+    "food_groups": "en:sweets",
+    "id": "0789742895050",
+    "image_front_url": "https://images.openfoodfacts.org/images/products/078/974/289/5050/front_es.27.400.jpg",
+    "image_ingredients_url": "https://images.openfoodfacts.org/images/products/078/974/289/5050/ingredients_es.18.400.jpg",
+    "image_nutrition_url": "https://images.openfoodfacts.org/images/products/078/974/289/5050/nutrition_es.19.400.jpg",
+    "image_packaging_url": "",
+    "image_url": "https://images.openfoodfacts.org/images/products/078/974/289/5050/front_es.27.400.jpg",
+    "ingredients": [
+      {
+        "id": "en:sugar",
+        "is_in_taxonomy": 1,
+        "percent_estimate": 50,
+        "text": "AZUCAR",
+        "vegan": "yes",
+        "vegetarian": "yes"
+      },
+      {
+        "id": "en:vegetable-oil",
+        "is_in_taxonomy": 1,
+        "percent_estimate": 25,
+        "text": "ACEITE VEGETAL",
+        "vegan": "yes",
+        "vegetarian": "yes"
+      },
+      {
+        "ciqual_food_code": "15004",
+        "id": "en:hazelnut",
+        "is_in_taxonomy": 1,
+        "percent_estimate": 13,
+        "text": "AVELLANAS",
+        "vegan": "yes",
+        "vegetarian": "yes"
+      },
+      {
+        "ciqual_food_code": "19054",
+        "id": "en:skimmed-milk-powder",
+        "is_in_taxonomy": 1,
+        "percent_estimate": 8.7,
+        "text": "LECHE DESCREMADA EN POLVO",
+        "vegan": "no",
+        "vegetarian": "yes"
+      },
+      {
+        "ciqual_food_code": "18100",
+        "id": "en:fat-reduced-cocoa-powder",
+        "is_in_taxonomy": 1,
+        "percent_estimate": 3.3,
+        "text": "CACAO MAGRO EN POLVO",
+        "vegan": "yes",
+        "vegetarian": "yes"
+      },
+      {
+        "id": "en:emulsifier",
+        "is_in_taxonomy": 1,
+        "percent_estimate": 0,
+        "text": "EMULSIONANTE",
+        "ingredients": [
+          {
+            "id": "en:e322i",
+            "is_in_taxonomy": 1,
+            "percent_estimate": 0,
+            "text": "LECITINA"
+          }
+        ]
+      },
+      {
+        "id": "es:saborizante-identico-al-natural",
+        "is_in_taxonomy": 0,
+        "percent_estimate": 0,
+        "text": "SABORIZANTE IDÉNTICO AL NATURAL",
+        "ingredients": [
+          {
+            "id": "en:vanillin",
+            "is_in_taxonomy": 1,
+            "percent_estimate": 0,
+            "text": "VAINILLINA"
+          }
+        ]
+      }
+    ],
+    "nutrient_levels": {
+      "fat": "moderate",
+      "salt": "low",
+      "saturated-fat": "moderate",
+      "sugars": "moderate"
+    },
+    "nutriments": {
+      "carbohydrates": 10,
+      "carbohydrates_100g": 10,
+      "carbohydrates_unit": "g",
+      "carbohydrates_value": 10,
+      "energy": 418,
+      "energy-kcal": 100,
+      "energy-kcal_100g": 100,
+      "energy-kcal_unit": "kcal",
+      "energy-kcal_value": 100,
+      "energy_100g": 418,
+      "energy_unit": "kcal",
+      "energy_value": 100,
+      "fat": 6,
+      "fat_100g": 6,
+      "fat_unit": "g",
+      "fat_value": 6,
+      "salt": 0.0254,
+      "salt_100g": 0.0254,
+      "salt_unit": "mg",
+      "salt_value": 25.4,
+      "sugars": 10,
+      "sugars_100g": 10,
+      "sugars_unit": "g",
+      "sugars_value": 10
+    },
+    "product_name": "Nutella",
+    "product_name_en": "",
+    "selected_images": {
+      "front": {
+        "display": {
+          "es": "https://images.openfoodfacts.org/images/products/078/974/289/5050/front_es.27.400.jpg"
+        },
+        "small": {
+          "es": "https://images.openfoodfacts.org/images/products/078/974/289/5050/front_es.27.200.jpg"
+        },
+        "thumb": {
+          "es": "https://images.openfoodfacts.org/images/products/078/974/289/5050/front_es.27.100.jpg"
+        }
+      },
+      "ingredients": {
+        "display": {
+          "es": "https://images.openfoodfacts.org/images/products/078/974/289/5050/ingredients_es.18.400.jpg",
+          "fr": "https://images.openfoodfacts.org/images/products/078/974/289/5050/ingredients_fr.6.400.jpg"
+        },
+        "small": {
+          "es": "https://images.openfoodfacts.org/images/products/078/974/289/5050/ingredients_es.18.200.jpg",
+          "fr": "https://images.openfoodfacts.org/images/products/078/974/289/5050/ingredients_fr.6.200.jpg"
+        },
+        "thumb": {
+          "es": "https://images.openfoodfacts.org/images/products/078/974/289/5050/ingredients_es.18.100.jpg",
+          "fr": "https://images.openfoodfacts.org/images/products/078/974/289/5050/ingredients_fr.6.100.jpg"
+        }
+      }
+    },
+    "nutriscore_score": 3
+  }
+]
